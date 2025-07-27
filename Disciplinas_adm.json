@@ -1,0 +1,2108 @@
+[
+    {
+        "codigo": "CAD8000",
+        "nome": "Formação em Administração e Ética Profissional",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7001",
+        "prereq": null,
+        "ementa": "Inserção na universidade e vida acadêmica. Administração e Organizações: conceitos e áreas de atuação. Ética profissional. Ambiente Organizacional. Funções da Administração: planejamento, organização, direção e controle.",
+        "objetivos": "Proporcionar ao estudante uma compreensão das oportunidades de inserção na universidade bem como na vida acadêmica, além de conceitos introdutórios sobre os conceitos e áreas da administração, ética profissional, ambiente organizacional e funções administrativas.",
+        "bib_basica": [
+            "DAFT, R. L. Administração. Rio de Janeiro: Cengage Learning, 2010.",
+            "MAXIMIANO, A. C. A. Introdução à administração. 8. ed. rev. e ampl. [s. l.]: Atlas, 2017.",
+            "SOBRAL, F.;,PECI, A. Administração: teoria e prática no contexto brasileiro. 2.ed. São Paulo: Prentice Hall, 2013."
+        ],
+        "bib_complementar": [
+            "CHIAVENATO, I. Introdução à teoria geral da administração. 9. ed. [s. l.]: Manole, 2014.",
+            "CLEGG, S.; PITSIS, T.;, KORNBERGER, M. Administração e organizações : uma introdução à teoria e à prática. 2. ed. [s. l.]: Bookman, 2011.",
+            "LACOMBE, Francisco. Teoria Geral da Administração: São Paulo: Saraiva, 2009."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "1"
+    },
+    {
+        "codigo": "CAD8001",
+        "nome": "Organizações e Sociedade",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7235",
+        "prereq": null,
+        "ementa": "A empresa como a organização típica da modernidade: Regulação versus Mudança; Voluntarismo versus Determinismo (o debate da natureza humana); Racionalidades; Cultura (ou valores); Poder (ou política). Tópicos em Estudos Organizacionais: a Regulação da Ação Coletiva e os seus Efeitos nas Organizações; Organizações e Indivíduos; Organizações e Desigualdades de Classe, de Raça e de Gênero; Relações de Trabalho nas Organizações; Organizações da Sociedade Civil e do Estado; Redes sociais e Redes de Organizações: Mercados e Hierarquias; Organizações, Insustentabilidades e Meio Ambiente; Organizações e Tecnologias.",
+        "objetivos": "A disciplina está estruturada em torno da seguinte pergunta: Por que vivemos em uma sociedade de organizações? Na primeira unidade serão apresentadas diferentes perspectivas para abordar esse fenômeno transdisciplinar: desde a teoria organizacional até a economia, a sociologia, a filosofia e a história. Serão exploradas as principais abordagens que orientam os entendimentos contemporâneos das relações entre as organizações, os indivíduos, a sociedade e os seus ambientes. Essas abordagens darão pesos diferentes às explicações que colocam em primeiro plano o papel da sociologia da regulação e da sociologia da mudança, o debate sobre a natureza humana (voluntarismo versus determinismo), as racionalidades subjacentes às ações humanas nos contextos organizacionais e sociais, a cultura (ou os valores) e o poder (ou a política). Na segunda unidade serão apresentadas como essas abordagens se combinam para nos ajudar a compreender a relação entre as organizações, os indivíduos e a sociedade em uma gama diversificada de problemas e contextos: desde as formas de regulação da ação coletiva, até às desigualdades de classe, de raça e de gênero, as relações de trabalho nas organizações, as organizações da sociedade civil e do Estado, as redes sociais e organizacionais, os desequilíbrios e insustentabilidades ambientais (poluição e aquecimento global), e as relações entre as organizações e as tecnologias. A disciplina se encerra com um debate sobre o futuro das organizações: o que vem depois das organizações?",
+        "bib_basica": [
+            "CATTANI, Antonio David. A outra economia. Porto Alegre: Veraz, 2003. 306 p.",
+            "CUPANI, Alberto. Filosofia da tecnologia: um convite. 3. ed. Florianópolis: Editora da UFSC, 2016. 236 p. 2011. https://repositorio.ufsc.br/bitstream/handle/123456789/187613/Filosofia%20da%20 Tecnologia%20um%20convite%20e-book.pdf?sequence=1&isAllowed=y",
+            "FARIA, J. H. Economia política do poder: fundamentos. Curitiba: Criar, 2004. 3 Volumes."
+        ],
+        "bib_complementar": [
+            "FARIA, José Henrique de;MENEGHETTI, Francis Kanashiro. Burocracia como organização, poder e controle. Revista de Administração de Empresas, v. 51, n. 5, p. 424-439, 2011. https://doi.org/10.1590/S0034-75902011000500002 FRANÇA FILHO GC de. Decifrando a Noção de Paraeconomia em Guerreiro Ramos: a atualidade de sua proposição. Organ. Soc. [Internet]. 2014 Jun.13 [cited 2022Mar.2];17(52). Available from: https://periodicos.ufba.br/index.php/revistaoes/article/view/11100 RODRIGUES, Marcio Silva; DA",
+            "SILVA, R. Empresarização e Modernidade: A ideia de Empresa no Centro do Mundo. Revista Brasileira de Estudos Organizacionais, v. 6, n. 1, p. 40-76, 2019. https://doi.org/10.21583/2447- 4851.rbeo.2019.v6n1.147"
+        ],
+        "tipo": "Obrigatória",
+        "fase": "1"
+    },
+    {
+        "codigo": "CAD8002",
+        "nome": "Empreendedorismo",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7004",
+        "prereq": null,
+        "ementa": "Conceitos e origens do empreendedorismo. Tipos de empreendedorismo. Evolução do empreendedorismo no Brasil. Competências empreendedoras. Relação do empreendedorismo com criatividade e inovação. Plano de Negócios: partes constituintes e cuidados básicos.",
+        "objetivos": "Fomentar o desenvolvimento de uma postura empreendedora sintonizada com as tendências do mercado e com as diversas alternativas para o exercício da sua profissão de administrador empreendedor.",
+        "bib_basica": [
+            "FALTIN, Günter;SCHWEIZER, Luciano Teixeira. Como transformar uma boa idéia em um negócio lucrativo: reflexões para novos empreendedores. Rio de Janeiro: 7 Letras, 2003. 149 p. (Coleção AFEBA ; v.3). ISBN 8575770675.",
+            "HISRICH, Robert D.; PETERS, Michael P.;SHEPHERD, Dean A. Empreendedorismo. 7. ed. Porto Alegre: Bookman, 2009. 662 p. ISBN 9788577803460.",
+            "LAPOLLI, Édis Mafra. Capacidade empreendedora: teoria e casos práticos : livro 1. Florianópolis: Pandion, 2009. 207 p. ISBN 9788560946297.",
+            "TAJRA, Sanmya Feitosa. Empreendedorismo: conceitos e práticas inovadoras. 1. ed. São Paulo: Érica, 2014. 144 p. ISBN 9788536505862."
+        ],
+        "bib_complementar": [
+            "CUNHA, Rodrigo Vieira da; DINIZ, Abílio; INSTITUTO EMPREENDER ENDEAVOR. Como fazer uma empresa dar certo em um país incerto: conselhos e lições de 51 dos empreendedores mais bem-sucedidos do Brasil. 7. ed. Rio de Janeiro: Elsevier, Campus, 2005. 411 p. ISBN 9788535214970",
+            "DEGEN, Ronald Jean. O empreendedor: empreender como opção de carreira. São Paulo: Prentice Hall do Brasil, 2009. xviii, 440 p. ISBN 9788576052050.",
+            "BRITTO, Francisco;WEVER, Luiz. Empreendedores brasileiros: vivendo e aprendendo com grandes nomes. 5. ed. Rio de Janeiro: Negocio, 2004. 246 p. ISBN 8586014516."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "1"
+    },
+    {
+        "codigo": "CAD8003",
+        "nome": "Laboratório de Habilidades Relacionais",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7233",
+        "prereq": null,
+        "ementa": "Introdução ao pensamento sistêmico. Relações humanas sob a perspectiva sistêmica. Comunicação e interação humana. Comunicação Não-Violenta. Competências sócio-emocionais.",
+        "objetivos": "Oportunizar ao aluno reflexões teóricas e práticas voltadas ao desenvolvimento de competências interpessoais, desenvolvendo atitudes e habilidades necessárias para respeitar diferenças e agir positivamente para o bem comum, por meio do estabelecimento de relacionamentos satisfatórios, administração de situações do cotidiano e comunicação assertiva e não violenta.",
+        "bib_basica": [
+            "ROCHA, Caroline Reis. Manual de comunicação não violenta para organizações. 1.ed. Universidade de Brasília. Brasília, 2017. Disponível em https://bdm.unb.br/handle/10483/19734",
+            "ROSENBERG, Marshall B. Comunicação Não-Violenta. Tradução de Mário Vilela. São Paulo: Ágora, 2006.",
+            "VASCONCELLOS, Maria Jose Esteves de. Pensamento sistêmico: o novo paradigma da ciência. 11. ed. Campinas: Papirus, 2018. 272 p.",
+            "WATZLAWICK, Paul; BAVELAS, Janet Beavin;JACKSON, Don D. (Don De Avila). Pragmatica da comunicação humana : um estudo dos padrões, patologia e paradoxos da interação. 10. ed. São Paulo: Cultrix, 1998. 263p."
+        ],
+        "bib_complementar": [
+            "WORLD ECONOMIC FORUM. The Future of Jobs. World Economic Forum, 2020. Disponível em https://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "1"
+    },
+    {
+        "codigo": "CNM5225",
+        "nome": "Fundamentos Econômicos",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CNM5145",
+        "prereq": null,
+        "ementa": "Introdução à Economia. Breve história do pensamento econômico. Introdução à microeconomia. Funcionamento dos mercados: demanda e oferta. Noções de macroeconomia. Agregados macroeconômicos. Economia monetária e financeira. Economia e inovação.",
+        "objetivos": "Proporcionar a compreensão do funcionamento das atividades econômicas. No campo microeconômico, busca-se demonstrar o processo de formação de preços em diferentes estruturas de mercado, bem como identificar os instrumentos utilizados no processo decisório na alocação de recursos econômicos. No campo macroeconômico, tem-se como objetivo o conhecimento dos grandes agregados macroeconômicos e suas relações funcionais.",
+        "bib_basica": [
+            "HASENCLEVER, L.;KUPFER, D. Economia industrial : fundamentos teóricos e práticas no Brasil. 2. ed. rev. e ampl. [s. l.]: Elsevier, 2013.",
+            "MANKIW, N. G. Introdução à economia :[s. l.]: Cengage Learning, 2010.",
+            "PINDYCK, R. ;RUBINFELD, D. Microeconomia, 8ª ed., Pearson Brasil, 2014."
+        ],
+        "bib_complementar": [
+            "BLANCHARD, O. Macroeconomia. 5. ed. [s. l.]: Pearson, 2011.",
+            "HUNT, E. K. História do pensamento econômico. [s. l.]: Elsevier, 2005.",
+            "VASCONCELLOS, M. A. S. de;GARCIA, M. E. Fundamentos de economia. 3. ed. [s. l.]: Saraiva, 2008."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "1"
+    },
+    {
+        "codigo": "DIR6981",
+        "nome": "Direito para Administradores",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "DIR7002",
+        "prereq": null,
+        "ementa": "Direito empresarial: aspectos elementares. Atividades das Sociedades Empresárias. A empresa e o direito do trabalho. Obrigações do Direito do Trabalho. Direito do Consumidor e a empresa: direitos e deveres. Aspectos emergentes do direito para as organizações.",
+        "objetivos": "Relacionar o direito empresarial, trabalhista e consumerista com as repercussões existentes no ambiente organizacional.",
+        "bib_basica": [
+            "CRETELLA JÚNIOR, José; CRETELLA NETO, José. 1.000 perguntas e respostas de direito do trabalho. 3. ed. Rio de Janeiro: Forense, 1999. 177 p. ISBN 8530905571. Número de chamada: 34:331 C924m",
+            "KAISER, Jakzam. ABC do consumidor. Florianópolis: Paralelo 27, 1991. 158 p. (Defesa do cidadão; v.1)). ISBN 8585433043 : (Broch.). Número de chamada: 658.8.013(094.3) K13a",
+            "REQUIÃO, Rubens. Aspectos modernos de direito comercial : estudos e pareceres. São Paulo: Saraiva, 1977. 410 p. Número de chamada: 347.7(81) R427a"
+        ],
+        "bib_complementar": [
+            "FAIRBANKS, Alexandre de Serpa Pinto. A Função Social E A Boa-Fé Objetiva Aplicados Ao Direito Empresarial. Disponível em: http://site.conpedi.org.br/publicacoes/27ixgmd9/acmnhs72 GUNTHER, Luiz Eduardo;",
+            "MANDALOZZO, Silvana Souza Netto (coord.). 25 anos da constituição e o direito do trabalho. Curitiba: Juruá, 2013. 568 p. ISBN 9788536244600. Número de chamada: 34:331(81) V789",
+            "LIMA, Thomires Elizabeth Pauliv Badaró. O Planejamento Tributário E Sua (In)Questionável Legalidade: Do Campo Da Licitude Ao Abuso De Direito. Disponível em: http://site.conpedi.org.br/publicacoes/27ixgmd9/acmnhs72"
+        ],
+        "tipo": "Obrigatória",
+        "fase": "1"
+    },
+    {
+        "codigo": "CAD8004",
+        "nome": "Teorias da Administração",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7002",
+        "prereq": null,
+        "ementa": "Condições geradoras do pensamento administrativo. Abordagem Clássica: Administração Científica e Gestão Administrativa. Abordagem Comportamentalista: Escola de Relações Humanas, Teorias de Motivação e Liderança, Teorias de Decisão. Abordagem Estruturalista: Teoria da Burocracia. Abordagem Sistêmica: Teoria Geral dos Sistemas e Teoria da Contingência. Teorias Ambientais. Evolução das concepções de indivíduo, organização e ambiente. Contribuições teóricas brasileiras.",
+        "objetivos": "O objetivo central da disciplina é apresentar e proporcionar ao estudante uma reflexão crítica sobre: o contexto histórico que levou à constituição da administração enquanto campo de conhecimento; as propostas teóricas do campo administrativo surgidas a partir deste contexto; a evolução e as complementaridades destas propostas; e a atualidade dos conceitos trabalhados em cada uma das teorias e como estas propostas podem ser visualizadas na prática administrativa.",
+        "bib_basica": [
+            "MORGAN, Gareth. Imagens da Organização. 11.ed. São Paulo: Atlas, 2009.",
+            "MOTTA, Fernando C. Prestes;VASCONCELOS, Isabella F. Gouveia de. Teoria geral da administração. 3. ed. São Paulo: Cengage Learning, 2016. Disponível em: https://resolver.vitalsource.com/9788522108770",
+            "SILVA, Reinaldo O. da Teorias da administração. São Paulo: Pearson, 2013."
+        ],
+        "bib_complementar": [
+            "CHIAVENATO, I. Introdução à teoria geral da administração. 9. ed. [s. l.]: Manole, 2014.",
+            "CLEGG, S.; PITSIS, T.;KORNBERGER, M. Administração e organizações : uma introdução à teoria e à prática. 2. ed. [s. l.]: Bookman, 2011.",
+            "LACOMBE, Francisco. Teoria Geral da Administração: São Paulo: Saraiva, 2009."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "2"
+    },
+    {
+        "codigo": "CAD8005",
+        "nome": "Métodos de Pesquisa e Análise Organizacional",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CIN7002 e CAD7304",
+        "prereq": null,
+        "ementa": "Definição do objeto de estudo. Natureza da pesquisa. Métodos de Pesquisa. Técnicas de Coleta e Análise de dados. Diagnóstico organizacional. Estudo da solução de problemas e aproveitamento de oportunidades. Processos e dimensões organizacionais.",
+        "objetivos": "Oportunizar ao estudante conhecimentos sobre os procedimentos necessários à realização de uma análise organizacional, abarcando: a definição do objeto de estudo, a natureza e os métodos de pesquisa, as técnicas de coleta e análise de dados, bem como as etapas de um diagnóstico organizacional, o estudo da solução de problemas e aproveitamento de oportunidades, bem como processos e dimensões organizacionais envolvidos.",
+        "bib_basica": [
+            "ROESCH, S. M. A.; MELLO, M. I. de;",
+            "BECKER, G. V. Projetos de estágio e de pesquisa em administração: guia para estágios trabalhos de conclusão, dissertações e estudos de caso. 2. ed. [s. l.]: Atlas, 1999.",
+            "SOBRAL, F.;",
+            "PECI, A. Administração: teoria e prática no contexto brasileiro. 2.ed. São Paulo: Prentice Hall, 2013.",
+            "VERGARA, S. C. Projetos e relatórios de pesquisa em administração. 14. ed.-. [s. l.]: Atlas, 2013. YIN, R. K. Estudo de caso : planejamento e métodos. 3.ed. [s. l.]: Bookman, 2012."
+        ],
+        "bib_complementar": [
+            "CURY, A. Organização e métodos: uma visão holística. 8. ed. rev. e ampl. [s. l.]: Atlas, 2005",
+            "SCHEIN, E. H. Cultura organizacional e liderança. 1. ed. [s. l.]: Atlas, 2009.",
+            "ZANELLA, L. C. H. Metodologia da pesquisa. [s. l.]: SEAD/UFSC, 2007."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "2"
+    },
+    {
+        "codigo": "CAD8006",
+        "nome": "Negociação",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7213",
+        "prereq": null,
+        "ementa": "As múltiplas faces da negociação nas organizações. A escuta empática na inovação. Negociando a partir da Comunicação Não-Violenta (CNV). Negociação da Harvard Law School. Negociação de conflitos e sustentabilidade. Negociação internacional.",
+        "objetivos": "Avaliar as múltiplas faces da negociação nas organizações, especialmente a Negociação da Harvard Law School e a CNV.",
+        "bib_basica": [
+            "Manual de Negociação Baseado na Teoria de Harvard / Escola da Advocacia-Geral da União Ministro Victor Nunes Leal. – Brasília : EAGU, 2017.", 
+            "GOLEMAN, Daniel;BOYATZIS, Richard; McKEE, Annie. O poder da Inteligência Emocional, a experiência de liderar com sensibilidade e eficácia. Rio de Janeiro, Campus, 2002.", 
+            "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS– MPMG. Glossário da Comunicação Não-Violenta. Disponível em: https://www.mpmg.mp.br/data/files/1E/54/CD/CB/9C8CC710D5E81CC7760849A 8/Folder%20CNV.pdf"
+        ],
+        "bib_complementar": [
+            "GAUDENCIO, Debora. Comunicação Não Violenta a partir de Vivências nas Organizações. Disponível em: https://www.vocacao.org.br/wp-/content/uploads/2020/10/Apresenta%C3%A7%C3%A3o-CNV-nas-Organizac%CC%A7oes.pdf",
+            " MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ – MPPI. Guia Prático para a Comunicação Não Violenta. Disponível em: https://www.mppi.mp.br/internet/wp- content/uploads/2020/09/Ebook-Comunicac%CC%A7a%CC%83o-Na%CC%83o- Violenta_MPPI-1-1-1.pdf SALES, Lilia Maia de Morais;",
+            "RABELO, Cilana de Morais Soares. Meios consensuais de solução de conflitos Instrumentos de democracia. Disponível em: http://www2.senado.leg.br/bdsf/bitstream/handle/id/194916/000865481.pdf?seque nce=3&isAllowed=y"
+        ],
+        "tipo": "Obrigatória",
+        "fase": "2"
+    },
+    {
+        "codigo": "CAD8007",
+        "nome": "Gestão da Inovação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7222",
+        "prereq": null,
+        "ementa": "Origens e conceitos de inovação. Papel da inovação no desenvolvimento da sociedade. Sistemas de Inovação (Atores e seus papeis). Tipos de inovação. Fontes de inovação. Processo de Inovação e sua gestão.",
+        "objetivos": "Conhecer o funcionamento dos ecossistema de inovação.",
+        "bib_basica": [
+            "GOVINDARAJAN, Vijay;TRIMBLE, Chris. Os 10 mandamentos da inovação estratégica: do conceito à implementação : inclui casos e exemplos de grandes empresas. Rio de Janeiro: Elsevier, 2006. 256p ISBN 8535218718.",
+            "TRIAS DE BES, Fernando;KOTLER, Philip. A bíblia da inovação: o modelo A-F. São Paulo: Leya, 2011. 332 p. ISBN 9788563066633.",
+            "TIDD, Joseph; BESSANT, John;PAVITT, Keith. Gestão da inovação. 3. ed. São Paulo: Bookman, 2008. xvi, 600 p. ISBN 9788577802029."
+        ],
+        "bib_complementar": [
+            "O BRASIL da inovação: um panorama dos avanços em pesquisa e tecnologia. São Paulo: Editora Caros Amigos Ltda., 2013. 145 p.",
+            "KELLEY, Tom;LITTMAN, Jonathan. As 10 faces da inovação: estratégias para turbinar a criatividade. Rio de Janeiro: Elsevier: Campus, 2007. 263 p. ISBN 9788535224504."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "2"
+    },
+    {
+        "codigo": "CAD8008",
+        "nome": "Gestão Ambiental",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7105",
+        "prereq": null,
+        "ementa": "Crise ecológica. Meio ambiente. Desenvolvimento sustentável. Organizações e meio ambiente. Legislação ambiental. Rotulagem ambiental. Produção mais limpa. Sistema de gestão ambiental. Gestão de resíduos. Certificação ambiental. Desempenho ambiental. Passivos e custos ambientais. Auditorias ambientais.",
+        "objetivos": "Proporcionar aos participantes conhecimentos atuais, fundamentais e multidisciplinares para gestão ambiental nas organizações.",
+        "bib_basica": [
+            "BARBIERI, José Carlos. Gestão ambiental empresarial: conceitos, modelos e instrumentos. 4. ed. atual. ampl. São Paulo: Saraiva, 2016.",
+            "PHILIPPI JUNIOR, Arlindo; SAMPAIO, Carlos Alberto Cioce;FERNANDES, Valdir (ed.). Gestão empresarial e sustentabilidade. 1. ed. Barueri: Manole, 2017.",
+            "SEIFFERT, Mari Elizabete Bernardini. ISO 14001 sistemas de gestão ambiental: implantação objetiva e econômica. 5. ed. São Paulo: Atlas, 2017"
+        ],
+        "bib_complementar": [
+            "MACHADO, Paulo Affonso Leme. Direito ambiental brasileiro. 24. ed. rev. ampl. atual. São Paulo: Malheiros, c2016.",
+            "MORAES, Clauciana Schmidt Bueno de; PUGLIESI, Érica (org.). Auditoria e certificação ambiental. Curitiba: Intersaberes, 2014.",
+            "RENSI, Francini;SCHENINI, Pedro Carlos. Produção mais limpa. Revista de Ciências da Administração, Florianópolis, v. 8, n. 16 , p. 293-315, jul./dez.. 2006."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "2"
+    },
+    {
+        "codigo": "EGC6715",
+        "nome": "Introdução ao Raciocínio Quantitativo na Formação do Conhecimento",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceitos de funções e matemática financeira para a representação do conhecimento quantitativo. Introdução a Modelagem e resolução de problemas quantitativos: equações e relações, representação gráfica e propriedades. Análise da construção do conhecimento através do raciocínio quantitativo.",
+        "objetivos": "Desenvolvimento habilidades de análise e interpretação quantitativas.",
+        "bib_basica": [
+            "ANDERSON, David R.; SWEENEY, Dennis J. eWILLIAM, Thomas A. Estatística Aplicada à Administração e Economia. São Paulo: Thomson Pioneira, 2003.",
+            "ASSAF NETO, Alexandre. Matemática financeira e suas aplicações. 9 ed. São Paulo: Atlas, 2006.",
+            "BUSSAB, W. O., MORETTIN, P. A. Estatística básica. 5ª ed. São Paulo: Saraiva, 2002.",
+            "CRESPO, A. Arnot. Matemática comercial e financeira fácil. 13 ed. São Paulo: Saraiva, 2001, 5ª tiragem, 2003.",
+            "HARIKI, Seiji; ABDOUNUR, Oscar J. Matemática aplicada: administração, economia e contabilidade. São Paulo: Saraiva, 1999.",
+            "HOFFMANN, L. D. e BRADLEY, G. L. Cálculo - um curso moderno e suas aplicações. Rio de Janeiro: Livros Técnicos e Científicos Editora S. A., 2002.",
+            "IEZZI, Gelson; DOLCE, Oswaldo; DEGENSZAJN, David e PERIGO, Roberto. Matemática. Volume Único. São Paulo: Editora Atual, 2002. 660p.",
+            "LARSON, R. E.; HOSTETLER R. P. e EDWARDS B. H. Cálculo com aplicações. Rio de Janeiro: Livros Técnicos e Científicos S. A., 2005.",
+            "LEITHOLD, L. Matemática aplicada à economia e administração. São Paulo: Harbra, 1988.",
+            "SILVA, Fernando César Marra e, ABRÃO, Mariângela. Matemática básica para decisões administrativas. São Paulo: Atlas, 2007."
+        ],
+        "bib_complementar": [
+            "DOLCE, Oswaldo ePOMPEO, Jose Nicolau. Fundamentos de Matemática Elementar: Geometria Plana. Volume 9 e 10. São Paulo: Editora Atual, 2005.",
+            "GIOVANNI, J. R. e outros. Matemática fundamental. São Paulo: FTD S. A., 1998.",
+            "HAZZAN, Samuel e IEZZI, Gelson. Fundamentos de Matemática Elementar: Combinatória, Binômio e Probabilidade. Volume 1-12. São Paulo: Editora Atual, 2006.",
+            "SÉRATES, J. Raciocínio lógico: lógico matemático, lógico quantitativo, lógico numérico, lógico analítico, lógico crítico. 5ª ed. Brasília: Gráfica e Editora Olí- mpica Ltda, 1997. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "2"
+    },
+    {
+        "codigo": "CAD8009",
+        "nome": "Estado, Mercado e Sociedade Civil",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7715",
+        "prereq": null,
+        "ementa": "A trajetória de formação do Estado e da Administração Pública no Brasil. Estrutura e funcionamento da Administração Pública no Brasil. Conceitos de sociedade civil e espaço (esfera) público (a). Organizações da Sociedade Civil. Participação e sociedade civil. Interfaces, redes, alianças e parcerias entre Estado, Mercado e Sociedade. Políticas públicas: definição e caracterização das etapas.",
+        "objetivos": "Apresentar ao estudante a trajetória de formação do Estado e da Administração Pública no Brasil, sua estrutura e funcionamento. Discutir conceitos de sociedade civil e espaço (esfera) público (a), organizações da Sociedade Civil, participação e sociedade civil bem como as interfaces, redes, alianças e parcerias entre Estado, Mercado e Sociedade. Introduzir a temática das políticas públicas e sua relação com o Estado, o Mercado e a Sociedade.",
+        "bib_basica": [
+            "ANDION, Carolina. A gestão no campo da economia solidária: particularidades e desafios. Revista de Administração Contemporânea [online]. 2005, v. 9, n. 1. pp. 79-101. Disponível em: <https://doi.org/10.1590/S1415-65552005000100005>. Epub 14 Abr 2009. ISSN 1982-7849.",
+            "BRESSER-PEREIRA, Luiz Carlos. Burocracia pública na construção do Brasil. 2008. Disponível em: <http://www.bresserpereira.org.br/BOOKS/Burocracia_Publica_construcao_Brasil. pdf>. Acesso em: Mar./2015.",
+            "LOVATO, F.; PAULA e SILVA, A. L. (Org.) Coleção Caminhos para o desenvolvimento de Organizações da Sociedade Civil. Instituto Fonte, 2012. Disponível em: http://www.institutofonte.org.br/node/1153",
+            "SANABIO, Marcos Tanure; SANTOS, Gilmar José dos; DAVID, Marcus Vinicius (orgs.). Administração pública contemporânea : política, democracia e gestão. [recurso eletrônico]. [s. l.]: Editora UFJF, 2013. ISBN 9788576721666. Disponível em: https://www.ufjf.br/virgilio_oliveira/files/2014/10/Texto-s%c3%adntese- Oliveira-2013.pdf ."
+        ],
+        "bib_complementar": [
+            "SALM, J. F.;MENEGASSO, M. E. Os Modelos de Administração Pública como Estratégias Complementares para a Coprodução do Bem Público. Revista de Ciências da Administração, 11 (25), 2009.",
+            "FRANÇA FILHO, G. C. D. Esclarecendo terminologias: as noções de terceiro setor, economia social, economia solidária e economia popular em perspectiva."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "3"
+    },
+    {
+        "codigo": "CAD8010",
+        "nome": "Gestão de Projetos",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "18",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": "54",
+        "equivalente": "CAD7231",
+        "prereq": null,
+        "ementa": "Introdução, contextualização e evolução do gerenciamento de projetos e suas áreas de conhecimento: gestão da integração, escopo, cronograma, custos, qualidade, recursos, comunicação riscos, aquisições e stakeholders do projeto. Gestão Ágil de Projetos. Ciclo de vida do projeto: imersão, empatia, descoberta, proposta de valor, modelagem, implementação, encerramento e lições aprendidas. Principais modelos, metodologias e ferramentas utilizadas na gestão de projetos: PMBoK, Agile, SCRUM, Design Thinking, Lean, Canvas, Storytelling. Plataformas colaborativas para gestão de projetos. Captação, gestão e prestação de contas dos recursos do projeto. Organizações orientadas por projetos. Escritórios de Gestão de Projetos. Gestão Ágil de Projetos em Ecossistemas de Inovação. Carreiras em gerenciamento de projetos e tipos de certificações internacionais. Código de Ética e Conduta Profissional do Gerente de Projetos. Desenvolvimentos e avaliação do time de projeto. Aprendizagem Experiencial de Competências em Projetos.",
+        "objetivos": "Proporcionar aos estudantes o conhecimento dos principais processos, modelos e ferramentas de gerenciamento de projetos e promover reflexões críticas sobre suas aplicações nas organizações.",
+        "bib_basica": [
+            "BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Rio de Janeiro: Elsevier, c2010. 249 p. ISBN 9788535238624.",
+            "CRUZ, Fábio. Scrum e agile em projetos: guia completo : conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia. Rio de Janeiro: Brasport, 2015. xxxii, 398 p. ISBN 9788574527130.",
+            "SCHABER, K. &SUTHERLAND, J. (2019). Guia Definitivo do SCRUM: as regras do jogo (e-book). São Paulo: SCRUM Brasil."
+        ],
+        "bib_complementar": [
+            "KERZNER, Harold. Gerenciamento de projetos: uma abordagem sistêmica para planejamento, programação e controle. São Paulo: Blucher, 2015. xviii, 781 p.",
+            "TOMASELLI, Ivan;SIQUEIRA, Joésio Deoclécio Pierin. Gerenciamento de projetos: conhecimentos e habilidades. Curitiba: Kairós, c2016. 122 p. ISBN 9788563806376.",
+            "VARGAS, Ricardo Viana. Gerenciamento de projetos: estabelecendo diferenciais competitivos. 9. ed. Rio de Janeiro: Brasport, c2018 281 p. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "3"
+    },
+    {
+        "codigo": "CAD8011",
+        "nome": "Sustentabilidade e Inovação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7104",
+        "prereq": null,
+        "ementa": "Antropoceno. Contexto histórico da crise ambiental e o surgimento do modelo de Desenvolvimento Sustentável. Sustentabilidade (dimensões). Indicadores de sustentabilidade. Desafios da inovação em Sustentabilidade. Energias limpas. Eco design. Economia circular. Cidades inteligentes e sustentáveis. Greenwashing.",
+        "objetivos": "Aprender sobre sustentabilidade considerada em suas várias dimensões (social, ambiental, econômica, institucional) e sobre iniciativas de organizações civis, de startups, de governos e universidades voltadas para a inovação em sustentabilidade, como descarbonização da economia, energias renováveis e limpas, consumo sustentável, etc.",
+        "bib_basica": [
+            "CMMAD. Nosso futuro comum. Comissão Mundial sobre Meio Ambiente e Desenvolvimento. Rio de Janeiro: FGV, 1988.",
+            "MENDES, M. V. I. Mudança global do clima as cidades no Antropoceno: escalas, redes e tecnologias. Cad.Metrop. vol.22 no.48 São Paulo May/Aug. 2020 Epub Apr 17, 2020.",
+            "VEIGA, J. E. Para entender o desenvolvimento sustentável. São Paulo: Ed. 34, 2015."
+        ],
+        "bib_complementar": [
+            "VEIGA, José Eli da. Sustentabilidade: a legitimação de um novo valor. São Paulo: SENAC São Paulo, 2010. 160 p. ISBN 9788539600380.",
+            "ZANFORLIN, Guilherme da Mata; JULIANI, Antônio José; RIBEIRO, Vinicius Gomes; VALE, Cristiano Andrey Souza do; COSTA, Wagner Soares; MORAES, Camille; ULLMANN, Christian; PINTO, Laura de Souza Cota Carvalho Silva; SOUZA, Roberta Vieira Gonçalves de; GAUDIO, Chiara Del; TIBOLA, Talita; BENTZ, Ione Maria Ghislene; CERQUEIRA, Vicente de Paulo Santos; VIANA, Frederico Campos; PÊGO, Kátia; Ecovisões Projetuais : Pesquisas em Design e Sustentabilidade no Brasil ? Volume 2. São Paulo: Blucher, 2021. 266 p Disponível em: https://doi.org/10.5151/9786555500493 Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "3"
+    },
+    {
+        "codigo": "INE7013",
+        "nome": "Análise de Dados",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "INE7001",
+        "prereq": null,
+        "ementa": "Estatística descritiva (distribuição de frequência, medidas de tendência central, de dispersão). Probabilidade e distribuições de probabilidade. Inferência Estatística: amostragem e estimação. Inferência estatística: teste de hipóteses e intervalo de confiança. Utilização de planilha eletrônica e/ou pacote computacional de estatística.",
+        "objetivos": "Proporcionar que o estudante domine os fundamentos básicos de probabilidade e de inferência estatística, permitindo que o mesmo tenha a capacidade de realizar análises estatísticas elementares e possa ler e entender textos em que se faz uso da estatística.",
+        "bib_basica": [
+            "ANDERSON, D.R., SWEENEY, D.J., WILLIAMS, T.A., Estatística Aplicada à Administração e Economia. 3a ed. – São Paulo: CENGAGE Learning, 2013.",
+            "ANDERSON, D.R.; SWEENEY, DJ.; WILLLIAM, T.A.; CAMM, J.D.; COCHRAN, J.J. Estatística aplicada à administração e economia. São Paulo: Cengage Learning, 2019.",
+            "VIEIRA, S. Estatística básica, 2a edição. São Paulo: CENGAGE Learning, 2018."
+        ],
+        "bib_complementar": [
+            "BARBETTA, Pedro Alberto. Estatística aplicada às ciências sociais. 9. ed. Florianópolis: Ed. da UFSC, c2012. 315 p. (Coleção didática). ISBN 9788532806666.",
+            "MORETTIN, Pedro Alberto; BUSSAB, Wilton de Oliveira. Estatística básica. 9. ed. São Paulo: Saraiva, 2017. xxii, 554 p. ISBN 9788547220228.",
+            "LEVIN, Jack. Estatística para ciências humanas. 11. ed. São Paulo: Prentice-Hall, 2010. xii, 458 p. ISBN 9788581430812."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "3"
+    },
+    {
+        "codigo": "CCN7003",
+        "nome": "Fundamentos de Contabilidade para Administradores",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CCN7001",
+        "prereq": null,
+        "ementa": "Entidades e informações sobre elas. Contabilidade: objeto e objetivos. Patrimônio (bens, direitos e obrigações para com terceiros) e patrimônio líquido. O balanço patrimonial. Entidades \"em operação\". Registros Contábeis através de \"Balanços Sucessivos\" e através de partidas dobradas. Princípios Contábeis: abordagem inicial. Estruturação das demonstrações contábeis a partir do registro de operações. Balanço patrimonial. Demonstração dos resultados do Exercício. Demonstração dos lucros ou prejuízos acumulados. Demonstração das Mutações do patrimônio líquido e demonstração das Origens e Aplicação dos recursos.",
+        "objetivos": "Habilitar o aluno do curso de Administração a estruturar e compreender as demonstrações contábeis previstas na legislação societária a partir dos registros de operações típicas e básicas de empresas prestadoras de serviços e empresas comerciais.",
+        "bib_basica": [
+            "IUDÍCIBUS, S. de; MARION, J. C. Curso de contabilidade para não contadores : para as áreas de administração, economia, direito, engenharia. 7. ed. [s. l.]: Atlas, 2011.",
+            "MARION, J. C. Contabilidade básica. 11. ed. atual. [s. l.]: Atlas, 2015.",
+            "PADOVEZE, C. L. Manual de contabilidade básica : contabilidade introdutória e intermediária : texto e exercícios. 7. ed. atual.-. [s. l.]: Atlas, 2009."
+        ],
+        "bib_complementar": [
+            "IUDÍCIBUS, S. de. Contabilidade introdutória : livro de exercícios. 11. ed.-. [s. l.]: Atlas, 2011.",
+            "MARION, J. C. Contabilidade empresarial. 17. ed. [s. l.]: Atlas, 2015.",
+            "PADOVEZE, C. L. Contabilidade gerencial : um enfoque em sistema de informação contábil. 7. ed. [s. l.]: Atlas, 2007."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "3"
+    },
+    {
+        "codigo": "CAD8012",
+        "nome": "Gestão Estratégica",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7234",
+        "prereq": null,
+        "ementa": "Evolução e conceitos de estratégia. Os processos micro-organizacionais na formulação e implementação da estratégia. As escolas do pensamento estratégico. Tópicos contemporâneos em estratégia. A estratégia como prática (strategizing). Abertura da estratégia (open strategy). O papel do estrategista (middle manager e Alta Gestão) no contexto estratégico. A gestão estratégica para o desenvolvimento sustentável. Interfaces da estratégia com outras áreas do conhecimento.",
+        "objetivos": "Proporcionar aos acadêmicos elementos e conhecimentos acerca dos fundamentos da Administração Estratégica, promovendo reflexões e aprofundamento de questões teórico-práticas visando desenvolver uma visão crítica e pragmática nesta área de conhecimento.",
+        "bib_basica": [
+            "BARNEY, Jay B;HESTERLY, William. Administração estratégica e vantagem competitiva: casos brasileiros cedidos pela Central de Cases ESPM. São Paulo: Pearson Education do Brasil, 2008. 326p. ISBN 9788576051138", 
+            "IRELAND, R. Duane; HOSKISSON, Robert E.; HITT, Michael A. Administração estratégica. 10.ed. São Paulo: Cengage Learning, 2014. 461 p. ISBN 978-85-221- 1641-6",
+            "MINTZBERG, Henry; AHLSTRAND, Bruce; LAMPEL, Joseph. Safári de estratégia: um roteiro pela selva do planejamento estratégico. 2.ed. Porto Alegre (RS): Bookman, 2010. X,392p. ISBN 9788577807215"
+        ],
+        "bib_complementar": [
+            "DOBUSCH, L.; DOBUSCH, L. The Relation between Openness and Closure in Open Strategy: Programmatic and Constitutive Approaches to Openness. In: SEIDL, D.; KROGH, G. von; WHITTINGTON, R. (Eds.). The Cambridge Handbook of Open Strategy. Cambridge: Cambridge University Press, 2019.",
+            "JARZABKOWSKI, P.; BALOGUN, J.; SEIDL, D. Strategizing: the challenges of a practice perspective. Human Relations, v. 60, n. 1, p. 5-27, 2007.",
+            "WHITTINGTON, R. Completing the practice turn in strategy research. Organization Studies, v. 27, n. 5, p. 613-634, 2006.",
+            "WHITTINGTON, R. Opening strategy: professional strategists and practice change, 1960 to today. New York: Oxford University Press, 2019.",
+            "WHITTINGTON, R.; CAILLUET, L.; YAKIS‐ DOUGLAS, B. Opening strategy: evolution os a precarious profession. British Journal ofManagement."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "4"
+    },
+    {
+        "codigo": "CAD8013",
+        "nome": "Gestão de Processos",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7213",
+        "prereq": null,
+        "ementa": "Gestão de Processos de Negócios. Gráficos organizacionais: Organogramas, Fluxogramas, Sociograma e Quadro de Distribuição do Trabalho - QDT. Mapeamento de Processos. Técnicas de Melhoria e Otimização de Processos. Business Process Reengineering – BPR. Avaliação de Desempenho e Indicadores. Escritório de processos, Business Process Management - BPM, Business Process Model Notation - BPMN e Robot Process Automation - RPA.",
+        "objetivos": "Compreender os conceitos gerais sobre gestão de processos, proporcionando uma visão panorâmica das principais metodologias utilizadas, desenvolvendo a cultura da melhoria contínua, melhorando as habilidades para o mapeamento, registro e desenho dos processos organizacionais.",
+        "bib_basica": [
+            "BROCKE, Jan vom; ROSEMANN, Michael. Manual de BPM: gestão de processos de negócio. Porto Alegre: Bookman, 2013.",
+            "CRUZ, Tadeu. Sistemas, métodos & processos: administrando organizações por meio de processos de negócios. 3. ed. – São Paulo: Atlas, 2015.",
+            "VALLE, Rogerio; OLIVEIRA, Saulo Barbará D. Análise e modelagem de processos de negócio: foco na notação BPMN (Business Process Modeling Notation). São Paulo: Grupo GEN, 2013."
+        ],
+        "bib_complementar": [
+            "FINEP. Estudo e Aperfeiçoamento de Processos (EAP): vade mecum. Rio de Janeiro: FINEP, [1994?]. 72 p.",
+            "RODRIGUES, Marcus Vinicius Carvalho. Ações para a qualidade: gestão estratégica e integrada para a melhoria dos processos na busca da qualidade e produtividade (GEIQ). 6. ed. rev. e ampl. São Paulo: GEN, 2020. xxvii, 360 p. ISBN 9788595150140.",
+            "SANTOS, Luciano Miguel Moreira dos. Avaliação ambiental de processos industriais. 4. ed. São Paulo: Oficina de Textos, c2011. 136 p. ISBN 9788579750366."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "4"
+    },
+    {
+        "codigo": "CAD8014",
+        "nome": "Pessoas e Organizações",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7138",
+        "prereq": null,
+        "ementa": "História das relações de trabalho. Concepções da gestão das pessoas nas teorias organizacionais. Modelos de Homem e Teoria Administrativa. Sentidos do trabalho. Prazer e sofrimento no trabalho. Diversidade e Inclusão. Novas formas de organização do trabalho.",
+        "objetivos": "Ao final da disciplina o/a participante deve ser capaz de Analisar criticamente as relações de trabalho e explicar os processos concernentes à gestão de pessoas.",
+        "bib_basica": [
+            "FLEURY, M. T. L. et al. As pessoas na organização. São Paulo: Atlas: 2002.",
+            "MILKOVICH, G.; BOUDREAU, J. Administração de recursos humanos. São Paulo: Atlas, 2000.",
+            "RAMOS, A. G. Modelos de homem e teoria administrativa. Revista de Administração Pública, Rio de Janeiro, RJ, v. 18, n. 2, p. 3 a 12, 1984. Disponível em: https://bibliotecadigital.fgv.br/ojs/index.php/rap/article/view/10559. Acesso em: 22 mar. 2022.",
+            "VIEIRA, Fernando de Oliveira; MENDES, Ana Magnólia; MERLO, Álvaro Roberto Crespo (org.). Dicionário crítico e psicodinâmica do trabalho. Curitiba: Juruá, 2013. 512 p."
+        ],
+        "bib_complementar": [
+            "ANTUNES, Ricardo L. C. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. 2. ed. rev. e ampl. São Paulo: Boitempo, 2009. 287 p. (Mundo do Trabalho). ISBN 9788585934439.",
+            "WOOD JR, T. TONELLI, M. COOKE, B. Colonização e neo colonização da gestão de recursos humanos no Brasil (1950-2010). RAE. v. 51, n.3, p.232-243. Rio de Janeiro, mai/jun, 2011.",
+            "WOOD JR, T; TONELLI, M. J; COOKE, B. Pra onde vai a gestão de pessoas? GV Executivo. São Paulo, v.11, n.2, p. 20-24, 2012."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "4"
+    },
+    {
+        "codigo": "CAD8015",
+        "nome": "Administração de Marketing",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7218",
+        "prereq": null,
+        "ementa": "Visão geral do conceito, do sistema e da administração de marketing no ambiente de competitividade de mercado e organizações da sociedade contemporânea. Fundamentos de marketing: conceitos centrais e evolução do pensamento e orientações de marketing; análise do ambiente e sistema de informação de marketing; definições de mercado consumidor e organizacional, segmentação e posicionamento. Gestão de marketing e do composto mercadológico: produtos, serviços e marcas; precificação; distribuição e canais de marketing; comunicação integrada de marketing.",
+        "objetivos": "O propósito da disciplina é desenvolver conceitos e habilidades que ajudarão o aluno a compreender e solucionar problemas relacionados ao marketing.",
+        "bib_basica": [
+            "KOTLER, Philip; KELLER, Kevin L. Administração de Marketing – 14ª Ed. São Paulo: Pearson Prentice Hall, 2012.",
+            "RIES, A.; TROUT, J. Posicionamento: a batalha por sua mente. 1ª ed. São Paulo: MBooks, 2019.",
+            "YANAZE, Mitsuru. Gestão de Marketing e Comunicação: avanços e aplicações. Saraiva; 2ª edição, 2011."
+        ],
+        "bib_complementar": [
+            "COBRA, Marcos. Administração de marketing no Brasil. 4. ed. Rio de Janeiro: Elsevier, 2015. 533 p. ISBN 9788535269666.",
+            "NASCIMENTO, Augusto; LAUTERBORN, Robert F. Os 4Es de marketing e branding: evolução de conceitos e contextos até a era da marca como ativo intangível. Rio de Janeiro: Elsevier, 2007. 150p ISBN 9788535227475.",
+            "VAZ, Conrado Adolpho. Os 8 Ps do marketing digital: o guia estratégico de marketing digital. São Paulo: Novatec, 2011. 904 p. ISBN 9788575222751. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "4"
+    },
+    {
+        "codigo": "CAD8016",
+        "nome": "Laboratório de Desenvolvimento de Carreira",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7004",
+        "prereq": "Ter cursado 1.000 horas/aula no curso",
+        "ementa": "Autoconhecimento e autogestão. Estereótipos e escolhas profissionais em Administração. Mercados de trabalho em Administração. Planejamento e Desenvolvimento de carreira. Adaptabilidade de carreira. Aprendizagem ao longo da vida. Mentoria e carreira.",
+        "objetivos": "Oportunizar ao aluno reflexões teóricas e práticas para que ele aprenda a fazer escolhas conscientes e planejar opções de forma antecipada em relação à sua carreira e a gerenciar de maneira efetiva sua implementação e a transição da universidade para o mundo adulto e a vida no trabalho.",
+        "bib_basica": [
+            "CHIAVENATO, Idalberto. Carreira e competência: gerenciando o seu maior capital. São Paulo: Saraiva, 2002. 134 p. ISBN 8502037897.",
+            "CORTELLA, Mario Sergio. Por que fazemos o que fazemos?: aflições vitais sobre trabalho, carreira e realização. 47. ed. São Paulo: Planeta, 2019. 174 p. ISBN 9788542207415.",
+            "FIORINI, Milena Carolina; BARDAGI, Marucia Patta; SILVA, Narbal. Adaptabilidade de carreira: paradigmas do conceito no mundo do trabalho contemporâneo. Rev. Psicol., Organ. Trab., Brasília , v. 16, n. 3, p. 236-247, set. 2016 . Disponível em http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1984- 66572016000300003&lng=pt&nrm=iso"
+        ],
+        "bib_complementar": [
+            "MCEECDYA, 2010. The Australian Blueprint for Career Development, prepared by Miles Morgan Australia, Commonwealth of Australia, Canberra. Available at: www.blueprint.edu.au. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "4"
+    },
+    {
+        "codigo": "CCN7004",
+        "nome": "Custos e Precificação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CCN7002",
+        "prereq": null,
+        "ementa": "Conceitos básicos e classificações de Custos e Despesas. Elementos de Custos: Material direto, Mão de obra direta e Custos Indiretos de Fabricação. Diferenças, vantagens e desvantagens dos Métodos de Custeio. Definição do preço de venda: custos fixos e variáveis, markup, custo-alvo, métodos empíricos. Relação custo- volume-lucro: margem de contribuição e ponto de equilíbrio.",
+        "objetivos": "Esta disciplina tem como objetivo apresentar e discutir os conceitos fundamentais de custos nas organizações. A partir disso, objetiva-se habilitar o aluno a mensurar os custos e formar o preço de venda, bem como empregar os modelos de decisão baseados nos custos.",
+        "bib_basica": [
+            "BORNIA, A. C. Análise gerencial de custos: aplicação em empresas modernas. 3. ed. São Paulo: Atlas, 2010.",
+            "LEONE, G. S. G. Custos: um enfoque administrativo. 3.ed. Rio de Janeiro: FGV, 1980.",
+            "MARTINS, E. Contabilidade de Custos. São Paulo – Atlas, 2009."
+        ],
+        "bib_complementar": [
+            "KREMER, A. W.; BORGERT, A; RICHARTZ, F. Desenvolvimento de um modelo de custeio híbrido para empresas prestadoras de serviço por encomenda. Revista Catarinense da Ciência Contábil, v. 11, p. 57-71, 2012.",
+            "PINHEIRO, N. S.; BORGERT, A; REIS, L. S. Custeamento por níveis de confiança: a determinação de um intervalo para os custos de produção. CONTABILOMETRIA - Brazilian Journal of Quantitative Methods Applied to Accounting, v. 2, p. 12-25, 2015.",
+            "RICHARTZ, F.; BORGERT, A. O comportamento dos custos das empresas brasileiras listadas na BM&FBOVESPA entre 1994 e 2011 com ênfase nos sticky costs. Contaduria y Administracion, v. 59, p. 39-70, 2014.",
+            "SOUZA, F. R.; BORGERT, A. Unidades de equivalência na prestação de serviços e o caso das telecomunicações. Revista Contemporânea de Contabilidade, v. 13, p. 92-113, 2016."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "4"
+    },
+    {
+        "codigo": "CAD8018",
+        "nome": "Gestão da Produção e Operações",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7114",
+        "prereq": null,
+        "ementa": "Administração da Produção e Operações. Desempenho e estratégia da produção. Estrutura, escopo e capacidade da produção. Projeto de produto e de processo. Arranjo físico e localização. Tecnologia e pessoas na produção. Planejamento e controle da produção. Gestão da demanda e da capacidade. Gestão de estoques. Sistemas de planejamento e controle. Produção enxuta. Melhoramento da produção. Gestão da qualidade. Gestão de falhas. Gestão de projetos da produção. Inovação de produto e serviço. Tecnologias da Indústria 4.0. Gestão da Produção e Impacto Ambiental.",
+        "objetivos": "Compreender os conceitos gerais sobre gestão de operações, proporcionando uma visão panorâmica das principais técnicas utilizadas, desenvolvendo a cultura do planejamento e controle da produção, melhorando as habilidades para o melhoramento das operações e dos processos produtivos.",
+        "bib_basica": [
+            "CORRÊA, Henrique L; CORRÊA, Carlos A. Administração de produção e de operações: manufatura e serviços : uma abordagem estratégica. 3. ed. São Paulo: Atlas, 2012. xvii, 680 p. ISBN 9788522469185.",
+            "MARTINS, Petrônio Garcia; LAUGENI, Fernando P. Administração da produção: Petrônio G., Martins , Fernando P. Laugeni. 2. ed. rev., aum. e atual. São Paulo: Saraiva, 2005. 562 p. ISBN 9788502046160.",
+            "SLACK, Nigel; CHAMBERS, Stuart; JOHNSTON, Robert. Administração da produção. 3. ed. São Paulo: Atlas, 2009. 703 p. ISBN 9788522453535."
+        ],
+        "bib_complementar": [
+            "KRAJEWSKI, Lee J.; RITZMAN, Larry P (Larry P. Ritzman).; MALHOTRA, Manoj K. Administração de produção e operações. 8. ed. São Paulo: Pearson Prentice Hall, 2009. xiv, 615 p. ISBN 9788576051725.",
+            "NEUMANN, Clóvis. Gestão de sistemas de produção e operações: produtividade, lucratividade e competitividade. Rio de Janeiro: Elsevier, 2013. xv, 281 P. ISBN 9788535255812.",
+            "ROCHA, Duilio Reis da. Gestão da produção e operações. Rio de Janeiro: Ciência Moderna, 2008. x, 345 p. ISBN 9788573937121."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "5"
+    },
+    {
+        "codigo": "CAD8019",
+        "nome": "Comportamento Organizacional",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7226",
+        "prereq": null,
+        "ementa": "Cultura e clima organizacional. Equipes. Liderança. Motivação. Poder e Controle. Saúde Corporativa e Qualidade de Vida no Trabalho. Assédio moral e assédio sexual.",
+        "objetivos": "Desenvolver a compreensão das relações que se estabelecem no interior das organizações entre indivíduos e grupos/organização, bem como de fatores determinantes da forma em quem as referidas relações se configuram na dinâmica organizacional.",
+        "bib_basica": [
+            "CHIAVENATO, Idalberto. Administração de recursos humanos: fundamentos básicos. 8. ed. rev. e a. Barueri: Manole, 2016. v.2 (Recursos humanos). ISBN 9788520445525.",
+            "ROBBINS, Stephen P.; JUDGE, Tim; SOBRAL, Filipe. Comportamento organizacional: teoria e prática no contexto brasileiro. 14. ed. Rio de Janeiro: Pearson Prentice Hall, 2011. xxvi, 633 p. ISBN 9788576055693.",
+            "SIQUEIRA, Mirlene Maria Matias (org.). Novas medidas do comportamento organizacional: ferramentas de diagnóstico e de gestão. Porto Alegre: Artmed, 2014. viii, 312 p. ISBN 9788582710210.",
+            "WAGNER, John A.; HOLLENBECK, John R. Comportamento organizacional: criando vantagem competitiva. 2. ed. São Paulo: Saraiva, 2009. 496 p. ISBN 9788502085897",
+            "WOOD JUNIOR, Thomaz (coord.). Gestão empresarial: comportamento organizacional. 1. ed. São Paulo: Atlas, 2005. 228 p. ISBN 8522439389."
+        ],
+        "bib_complementar": [
+            "CHANLAT, Jean-François (coord.). O Indivíduo na organização: dimensões esquecidas. 3. ed. São Paulo: Atlas, 1996. v.",
+            "FLEURY, Maria Tereza Leme; FISCHER, Rosa Maria. Cultura e poder nas organizações. 2. ed. São Paulo: Atlas, 1996. 170 p. ISBN 8522414009.",
+            "LIMONGI-FRANÇA, Ana Cristina et al. As pessoas na organização. 20. ed. São Paulo: Gente, 2002. 306 p. ISBN 9788573123661. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "5"
+    },
+    {
+        "codigo": "CAD8020",
+        "nome": "Finanças Corporativas I",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7131",
+        "prereq": null,
+        "ementa": "Introdução às finanças corporativas. Sistema Financeiro Brasileiro. Conceitos financeiros básicos. Cálculo financeiro. A gestão do capital de giro. Gestão de Caixa, de contas a receber e dos estoques.",
+        "objetivos": "Por se tratar da primeira disciplina voltada às Finanças Corporativas no Curso de Administração da UFSC, propõe-se a apresentar, de forma introdutória, conceitos de finanças corporativas com foco nas decisões estratégicas de curto prazo. Para alcançar este objetivo, serão estudados conceitos financeiros básicos, a formação do sistema financeiro brasileiro, a gestão do capital de giro, e ferramentas de decisão de investimentos.",
+        "bib_basica": [
+            "ASSAF NETO, A. Finanças Corporativas e Valor. 8 ed. São Paulo: Atlas, 2019.",
+            "ASSAF NETO, A. Administração de capital de giro. 4 ed. São Paulo: Atlas, 2012.",
+            "BREALEY, R. & MYERS, S., ALLEN, F.. Princípios de Finanças Corporativas. Porto Alegre: AMGH Editora, 12a. Edição, 2018.",
+            "CASAROTTO FILHO, N. & KOPITTKE, B. H. Análise de Investimentos. 9. ed. São Paulo: Atlas, 2000.",
+            "GITMAN, L. J. Princípios de administração financeira. 12ª ed., São Paulo: Pearson, 2010.",
+            "ROSS, S. A. et al, Administração Financeira, 10 ed., AMGH, 2015."
+        ],
+        "bib_complementar": [
+            "ASSAF NETO, Alexandre.,, Matemática Financeira e suas Aplicações, 12ª ed., Atlas, 2012",
+            "MENDES, Sérgio. Administração financeira e orçamentária: teoria e questões. 6. ed. rev. e atual. São Paulo: Método, 2016. xx, 528 p.",
+            "SAUNDERS, A.,, Administração de Instituições Financeiras, 2ª ed., Atlas, 2000"
+        ],
+        "tipo": "Obrigatória",
+        "fase": "5"
+    },
+    {
+        "codigo": "CAD8021",
+        "nome": "Comportamento do Consumidor",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7225",
+        "prereq": null,
+        "ementa": "Fundamentos básicos sobre o comportamento do consumidor (definição; consumo e experiência de consumo; necessidade x desejo; processo de tomada de decisão); influências internas sobre o comportamento do consumidor (percepção; aprendizagem; memória; motivação; envolvimento; self; atitudes e persuasão; emoções); influências externas sobre o comportamento do consumidor (cultura e subcultura; efeitos situacionais; família, amigos, pets e outros influenciadores sociais; classe social, status e estilos de vida; propaganda, marca, redes sociais, tecnologias - BIG data, neurociência aplicada ao marketing, inteligência artificial, dentre outras); processo e execução de pesquisa de marketing para o comportamento do consumidor (definição do problema e desenvolvimento de uma abordagem; concepção da pesquisa - exploratória, descritiva e causal; trabalho de campo, coleta e análise dos dados). Consumo consciente.",
+        "objetivos": "Capacitar os alunos para a realização e análise de pesquisa de marketing considerando os fundamentos básicos sobre o comportamento do consumidor, as influências internas e externas sobre o comportamento do consumidor, processo e execução de pesquisa de marketing para o comportamento do consumidor e consumo consciente.",
+        "bib_basica": [
+            "BLACKWELL, R. D.; MINIARD, P. W.; ENGEL, J. F. Comportamento do Consumidor. 9. ed. São Paulo: Cengage Learning, 2005.",
+            "HAIR Jr., J. F.; WOLFINBARGER, M.; ORTINAU, D. J.; BUSH, R. P. Fundamentos de Pesquisa de Marketing. 3. ed. Porto Alegre: AMGH, 2014.",
+            "MALHOTRA, N. K. Pesquisa de marketing: uma orientação aplicada. 4. ed. Porto Alegre: Bookman, 2006.",
+            "SOLOMON, M. R. O Comportamento do Consumidor: Comprando, possuindo e sendo. 7. ed. Porto Alegre: Bookman, 2008."
+        ],
+        "bib_complementar": [
+            "FRANCISCO- MAFEZZOLLI, E.; FBRIS, C.; RIBEIRO, C.; SANTOS, T.; LIMA, M.; SEMPREBON, E.; BRUNETTA, D.; PRADO, P.;MADY, E. REFLEXÕES SOBRE O USO DE TÉCNICAS PROJETIVAS NA CONDUÇÃO DE PESQUISAS QUALITATIVAS EM MARKETING. Revista PMKT, 2009.",
+            "FURLANETO, Fabian; DIAS, Álvaro Machado. Análise de Consumidores Por Meio do ZMET Confirmam Conforto e Segurança como Itens de Preferência na Escolha de Automóveis. PMKT: Revista Brasileira de Pesquisa de Marketing, Opinião e Mídia, São Paulo, v. 14, p. 57-72, 2014.",
+            "IKEDA, A.; PEREIRA, B.; GIL, C. Etnografia em marketing: uma discussão inicial. Revista Eletrônica de Administração, v. 12, n. 4, jul./ago. 2006."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "5"
+    },
+    {
+        "codigo": "CAD8022",
+        "nome": "Inovação Social",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7826",
+        "prereq": null,
+        "ementa": "Inovação social: o contexto, o conceito e o processo. Soluções inovadoras face à emergência de novas necessidades sociais. Empreendedorismo social. Ecossistema da inovação social. Tecnologias sociais. Impacto social.",
+        "objetivos": "Refletir sobre soluções inovadoras face à emergência de problemas sociais.",
+        "bib_basica": [
+            "ANASTACIO, Mari Regina (et al.). Empreendedorismo social e inovação no contexto brasileiro. Curitiba: PUCPRESS, 2018.",
+            "ANDION, C., Ronconi, L., MORAES, R. L., GONSALVES, A. K. R., & SERAFIM, L. B. D. (2017). Sociedade civil e inovação social na esfera pública: uma perspectiva pragmatista. Revista De Administração Pública, 51(3), 369–387.",
+            "BIGNETTI, Luiz Paulo, As inovações sociais: uma incursão por ideias, tendências e focos de pesquisa. Ciências Sociais Unisinos [Internet]. 2011;47(1):3-14. Recuperado de: https://www.redalyc.org/articulo.oa?id=93820778002", 
+            "FRANÇA, Genauto Carvalho de, RIGO, Ariádne Scalfoni e SOUZA, Washington José de. A reconciliação entre o econômico e o social na noção de empresa social: limites e possibilidades (no contexto brasileiro). Organizações & Sociedade [online]. 2020, v. 27, n. 94, pp. 556-584."
+        ],
+        "bib_complementar": [
+            "ANDRÉ, Isabel; ABREU, Alexandre. Dimensões e espaços da inovação social. Finisterra, v. 41, n. 81, 2006.",
+            "AGOSTINI, Manuela Rösing et al. Uma visão geral sobre a pesquisa em inovação social: Guia para estudos futuros. BBR. Brazilian Business Review, v. 14, p. 385- 402, 2017.",
+            "PATIAS, Tiago Zardin et al. MODELOS DE ANÁLISE DA INOVAÇÃO SOCIAL: O QUE TEMOS ATÉ AGORA?| ANALYSIS MODELS OF SOCIAL INNOVATION: WHAT HAVE WE HAD SO FAR?. Revista Brasileira de Gestão e Inovação (Brazilian Journal of Management &amp; Innovation), v. 4, n. 2, p. 125-147, 2017. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "5"
+    },
+    {
+        "codigo": "CAD8023",
+        "nome": "Gestão de Serviços",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7122",
+        "prereq": null,
+        "ementa": "O papel dos serviços na economia. Natureza dos serviços. Características dos Serviços. Necessidades do Cliente em Serviços. Marketing de Serviços. Projeto de serviços. Tecnologia em serviços. Localização das instalações. Ciclo do Serviço. Fluxo do Processo do Serviço. Gestão de filas e planejamento da capacidade. Previsão da demanda em serviços. Lean service. Estratégia em Serviços. Qualidade em Serviços. Gerenciamento dos serviços de suporte, e assistência ao produto. Serviço Pós-venda.",
+        "objetivos": "Compreender os conceitos gerais sobre gestão de serviços, proporcionando uma visão panorâmica sobre suas características e particularidades, desenvolvendo a cultura da gestão no setor, melhorando as habilidades necessárias para obtenção de resultados positivos na prestação de serviços.",
+        "bib_basica": [
+            "CORRÊA, Henrique L; CAON, Mauro. Gestão de serviços: lucratividade por meio de operações e de safisfação dos clientes. São Paulo: Atlas, 2002. 479 p. ISBN 8522433097 (broch.).",
+            "GIANESI, Irineu G. N.; CORRÊA, Henrique L. Administração estratégica de serviços: operações para a satisfação do cliente. São Paulo: Atlas, 1994. 233 p. ISBN 8522411522.",
+            "FITZSIMMONS, James A.; FITZSIMMONS, Mona J. Administração de serviços: operações, estratégia e tecnologia de informação. 7. ed. Porto Alegre: AMGH, 2014. xi, 535 p. ISBN 9788580553284.",
+            "JOHNSTON, R.; CLARK, G. Administração de operações de serviço, São Paulo, Atlas, 2002.",
+            "LOVELOCK, Christopher; WRIGHT, Lauren – Serviços – Marketing e Gestão – São Paulo: Saraiva 2001."
+        ],
+        "bib_complementar": [
+            "BARROS, Claudius D'Artagnan C. de. Excelência em serviços: questão de sobrevivência no mercado. Rio de Janeiro: Qualitymark, 1996. 139 p. ISBN 8573030135.",
+            "BRUDEKI, Nelson Martins; BERNARDI, Jorge Luiz. Gestão de serviços públicos municipais. Curitiba: Intersaberes, 2013. 343 p. (Série gestão pública). ISBN 9788582129395."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "6"
+    },
+    {
+        "codigo": "CAD8024",
+        "nome": "Gestão Estratégica de Pessoas",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7139",
+        "prereq": null,
+        "ementa": "Planejamento estratégico de Pessoas e People Analytics. Descrição e análise de cargos. Atração, seleção e retenção de pessoas. Gestão de desempenho e de competências. Remuneração e Recompensa. Treinamento, desenvolvimento e aprendizagem organizacional. Gestão do Conhecimento.",
+        "objetivos": "Capacitar o aluno para ter uma visão global da parte estratégica de Gestão de Pessoas, bem como discutir questões fundamentais e abalizar as principais técnicas utilizadas para a Gestão nas Organizações.",
+        "bib_basica": [
+            "CHIAVENATO, Idalberto. Gestão de pessoas. 3. ed. rev. atual. Rio de Janeiro: Elsevier, c2008. xxxi, 579 p. ISBN 9788535225129.",
+            "FISCHER, André Luiz; DUTRA, Joel Souza; AMORIM, Wilson Aparecido Costa de. Gestão de pessoas: desafios estratégicos das organizações contemporâneas. São Paulo: Atlas, 2009. 218 p. ISBN 9788522453931.",
+            "GIL, Antonio Carlos. Gestão de Pessoas: enfoque nos papéis estratégicos. 2. Ed. Atlas, 2016.",
+            "GIL, Antonio Carlos. Gestão de pessoas: enfoque nos papéis profissionais. São Paulo: Atlas, 2001 307 p. ISBN 8522429529.",
+            "MARRAS, Jean Pierre. Administração de recursos humanos: do operacional ao estratégico. 15. ed. atual. e ampl. São Paulo: Saraiva, 2016. xv, 336 p. ISBN 9788502077928."
+        ],
+        "bib_complementar": [
+            "SNELL, Scott;BOHLANDER, George. Administração de recursos humanos. São Paulo: Cengage Learning, 2010. 570 p. ISBN 139788522106820.",
+            "MILKOVICH, George T.; OUDREAU, John W. Administração de recursos humanos. São Paulo: Atlas, C2000. 534 p. ISBN 8522423121.",
+            "DESSLER, Gary. Administração de recursos humanos. [S.l.]. 331 p. ISBN 8587918273.",
+            "LACOMBE, Francisco José Masset. Recursos humanos: princípios e tendências. São Paulo: Saraiva, 2005. 420p ISBN 9788502051232.",
+            "RIBEIRO, Antonio de Lima. Gestão de pessoas. São Paulo: Saraiva, c2005. 310p ISBN 8502049852."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "6"
+    },
+    {
+        "codigo": "CAD8025",
+        "nome": "Finanças Corporativas II",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7132",
+        "prereq": null,
+        "ementa": "Identificação de aspectos relevantes para Finanças Corporativas. Desempenho operacional e alavancagem financeira. Custo total de capital. Estrutura de capital. Fontes de Financiamentos para empresas inovadoras. Avaliação de empresa (valuation). Análise de investimentos.",
+        "objetivos": "Explicar os fundamentos de Finanças Corporativas inseridas no ambiente econômico atual, cobrindo as decisões financeiras da empresa moderna.",
+        "bib_basica": [
+            "ASSAF NETO, A. Finanças corporativas e valor. 8ª ed. Digital. São Paulo: Atlas, 2020.",
+            "ASSAF NETO, A; LIMA, F. G. Curso de Administração Financeira. 4ª ed. Digital. São Paulo: Atlas, 2019."
+        ],
+        "bib_complementar": [
+            "GITMAN, L. J. Princípios de administração financeira. 14 ed. Digital. São Paulo: Pearson Education do Brasil, 2017.",
+            "HOJI, M. Administração financeira: uma abordagem prática. 4 ed. São Paulo: Atlas, 2012.",
+            "LEMES JR, A. B; RIGO, C. M;CHEROBIM, A. P. M. S. Administração financeira: princípios, fundamentos e práticas brasileiras. 4ª ed. Digital. São Paulo: Atlas, 2002."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "6"
+    },
+    {
+        "codigo": "CAD8026",
+        "nome": "Gestão Estratégica de Marketing",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7232",
+        "prereq": null,
+        "ementa": "Origens, evolução e definições de estratégias mercadológica; Ambientes organizacionais e tendências tecnológicas de vendas; Sistema de Informação de Marketing (SIM); Posturas estratégicas de segmentação, diferenciação e posicionamento de marketing; Decisões estratégicas de marketing: Preço, Praça, Promoção, Produto (Serviços e tecnologia digital); Ações estratégicas de marketing para marca, embalagem, logística, equipe, parcerias e gestão operacional- financeira; Marketing de relacionamento (RM) físico e digital; Plano de comunicação integrada de marketing (CIM): mídias tradicional-digital (redes sociais-influencers); Tipologias e ferramentas de marketing física-digital; Temas e tecnologias digitais emergentes de marketing; Processo e sistema metodológico de elaboração do planejamento de marketing; Implementação e controle de resultados físico-financeiro do plano de marketing.",
+        "objetivos": "Oferecer aos acadêmicos a possibilidade de conhecerem várias versões metodológicas e ferramentas de gestão das estratégias de marketing, visando a sua reflexão e a prática do gerenciamento das organizações.",
+        "bib_basica": [
+            "BLACKWELL, R. D.; MINIARD, P. W.; ENGEL, J. F. Comportamento do Consumidor. São Paulo: Cengage Learning, 2008.",
+            "BRIDGER, Darren. Neuromarketing: como a neurociência aliada ao design pode aumentar o engajamento e a influência sobre os consumidores. São Paulo: Autêntica Business, c2018. 176 p. Disponível em: https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=n labk&AN=2252375",
+            "COBRA, M.. Plano Estratégico de Marketing. São Paulo: Atlas, 2000.",
+            "FERRELL, O. C.; HARTLINE, M. D.; LUCAS Jr., George H.;LUCK, D.. Estratégia de Marketing. São Paulo: Atlas, 2007.",
+            "GRÖNROOS, C.. Marketing: gerenciamento e serviços. Rio de Janeiro: Campus, 2009.",
+            "HOOLEY, G., SAUNDERS, J.; PIERCY, N.. Estratégia de Marketing e Posicionamento Competitivo. São Paulo: Prentice-Hall, 2001."
+        ],
+        "bib_complementar": [
+            "DE CAMARGO, P.. Neuromarketing: A nova pesquisa de comportamento do consumidor. São Paulo: Atlas, 2014.",
+            "DOOLEY, Roger. Como influenciar a mente do consumidor: 100 maneiras de convencer os consumidores com técnicas de neuromarketing. São Paulo: Elsevier, 2012. 280 p. ISBN 9788535256567.",
+            "GUMMESSON, E.. Marketing de relacionamento total: gerenciamento de marketing, estratégia de relacionamento e abordagens de CRM para a economia de rede. Porto Alegre: Bookman, 2005.",
+            "ZEITHAML, Valarie A.; BITNER, Mary Jo.. Marketing de Serviços: a empresa com foco no cliente. Porto Alegre: Bookman, 2003. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "6"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "1",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "6"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "2",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "6"
+    },
+    {
+        "codigo": "CAD8027",
+        "nome": "Prototipação de Ideias de Negócios",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "18",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7303",
+        "prereq": null,
+        "ementa": "Geração de ideias: fontes e ferramentas; Avaliação de ideias – Modelo 3 M de Timmons; Planejamento e desenvolvimento de um Produto Mínimo Viável (MVP); Teste e avaliação do MVP.",
+        "objetivos": "Proporcionar aos estudantes a noção das fases de desenvolvimento de ideias de negócios.",
+        "bib_basica": [
+            "AHRENS, Carlos Henrique et al. Prototipagem rápida: tecnologias e aplicações. 1. ed. São Paulo: Edgard Blucher, 2007. xxi, 244 p. ISBN 8521203888. MONTEIRO JR., João G. (org.). Criatividade e inovação. São Paulo: Pearson, 2011. 133 p. ISBN 9788576058847.",
+            "ROZENFELD, H., FORCELLINE, F., AMARAL, D., TOLEDO, J., SILVA, S., ALLIPRANDINI, D.,SCALICE, R. Gestão de Desenvolvimento de Produtos. São Paulo: Ed. Saraiva 1ª Edição, 2006."
+        ],
+        "bib_complementar": [
+            "CLEGG, Brian BIRCH, Paul. Criatividade: modelos e técnicas para geração de idéias e inovação em mercados altamente competitivos. São Paulo: Makron Books, 2000. 110 p. ISBN 8534611270."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "7"
+    },
+    {
+        "codigo": "CAD8028",
+        "nome": "Logística e Gestão da Cadeia de Suprimentos",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7220",
+        "prereq": null,
+        "ementa": "Logística, Cadeia de Suprimentos e Cadeia de Distribuição. Recursos logísticos: Atividades primárias (transporte, manutenção de estoques, processamento de pedidos), Atividades de Apoio (armazenagem, manuseio de materiais, embalagem, obtenção/suprimentos, programação de produtos). Custos logísticos e Trade Offs. Gestão da Cadeia de Suprimentos (GCS). Inovação, tecnologia, desempenho da GCS. Logística na GCS. Logística Reversa e Sustentabilidade na Cadeia de Suprimentos. Cadeia Global e a Logística Internacional.",
+        "objetivos": "Compreender os conceitos, funções e relevância da logística e cadeia de suprimentos, identificando os principais componentes do ambiente logístico e suas implicações para o alcance dos objetivos organizacionais. Desenvolver a compreensão do estudante quanto a importância da Logística e GCS, despertando no estudante, competências e habilidades necessárias para gerenciar a logística no exercício da profissão.",
+        "bib_basica": [
+            "BALLOU, Ronald H. Gerenciamento da cadeia de suprimentos/logística empresarial. 5. ed. Porto Alegre: Bookman, 2017. 616 p. ISBN 9788536305912.",
+            "BOWERSOX, Donald J;CLOSS, David J. Logística empresarial: o processo de integração da cadeia de suprimento. São Paulo: Atlas, 2004. 594 p. ISBN 8522428778 (broch.).",
+            "CHOPRA, Sunil;MEINDL, Peter. Gestão da cadeia de suprimentos: estratégia, planejamento e operações. 6. ed. São Paulo: Pearson Prentice Hall, c2016. xvii, 522 p. ISBN 9788543004747.",
+            "DIAS, Marco Aurélio P. Administração de materiais: uma abordagem logistica. 5. ed. São Paulo: Atlas, 2010. 528 p. ISBN 9788522459193."
+        ],
+        "bib_complementar": [
+            "GASNIER, Daniel Georges. A dinâmica dos estoques: guia prático para planejamento, gestão de materiais e logística. São Paulo: IMAM, 2002. 316 p.",
+            "HARRISON, Alan; HOEK, Remko van. Estratégia e gerenciamento de logística. São Paulo: Futura, 2003. 367 p. ISBN 8574131741. (2 exemplares na BU)",
+            "HONG, Yuh Ching. Gestão de estoques na cadeia de logística integrada: supply chain. São Paulo: Atlas, 1999. 182 p. ISBN 85-224-2114-5. (1 exemplar na BU central) LAMBERT, Douglas M.; STOCK, James R.;",
+            "VANTINE, José Geraldo. Administração estratégica da logística. São Paulo: Vantine Consultoria, 1999. 912 p. ISBN 85-86927-01-5."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "7"
+    },
+    {
+        "codigo": "CAD8029",
+        "nome": "Planejamento Financeiro e Orçamentário",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7228",
+        "prereq": null,
+        "ementa": "Planejamento e controle financeiro: conceitos, funções e princípios. Orçamentos empresariais e demonstrações financeiras projetadas: elaboração e execução. Planejamento financeiro na prática: aplicando os conceitos em um caso real.",
+        "objetivos": "Habilitar os alunos a utilizar os orçamentos e as demonstrações financeiras projetadas como instrumentos de gestão estratégica, planejamento integrado e de controle financeiro da empresa.",
+        "bib_basica": [
+            "FREZATTI, Fábio. Orçamento Empresarial: planejamento e controle empresarial. São Paulo: Atlas, 2009.",
+            "LUNKES, Rogério João. Manual de Orçamento. São Paulo: Atlas, 2003.",
+            "PADOVEZE, Clóvis Luís e TARANTO, Fernando Cesar. Orçamento Empresarial: novos conceitos e técnicas. São Paulo: Pearson Education do Brasil: 2009.",
+            "PADOVEZE, Clóvis Luís. Planejamento Orçamentário. São Paulo: Thomson, 2005."
+        ],
+        "bib_complementar": [
+            "BROOKSON, Stephen. Como elaborar orçamentos. 2.ed. São Paulo: Publifolha, 2001.",
+            "ZDANOWICZ, Jose Eduardo. Planejamento financeiro e orçamento. Porto Alegre: Sagra Luzzatto, 1995.",
+            "ZDANOWICZ, José Eduardo. Orçamento Operacional: uma abordagem prática. Porto Alegre: DC Luzatto, 1983."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "7"
+    },
+    {
+        "codigo": "INE7014",
+        "nome": "Sistemas e Inteligência de Dados",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "INE7002",
+        "prereq": null,
+        "ementa": "Estudo de correlações. Análise de regressão linear simples: modelo, inferências, análise de resíduos e transformações. Análise de regressão linear múltipla. Modelo com variáveis independentes categóricas. Séries temporais: componentes da série e técnicas previsão. Utilização de planilha eletrônica e/ou pacote computacional de estatística.",
+        "objetivos": null,
+        "bib_basica": [
+            "ANDERSON, D.R., SWEENEY, D.J., WILLIAMS, T.A., Estatística Aplicada à Administração e Economia. 3ª ed. – São Paulo: CENGAGE Learning, 2013.",
+            "ANDERSON, D.R.; SWEENEY, DJ.; WILLLIAM, T.A.; CAMM, J.D.; COCHRAN, J.J. Estatística aplicada à administração e economia. São Paulo: Cengage Learning, 2019.",
+            "DEVORE, J.L. Probabilidade e Estatística para Engenharia e Ciências. 2ª edição. São Paulo: CENGAGE Learning, 2015."
+        ],
+        "bib_complementar": [
+            "AGRESTI, Alan; FINLAY, Barbara. Métodos estatísticos para as ciências sociais. 4. ed. Porto Alegre: Penso, 2012. xi, 664 p. ISBN 9788563899576.",
+            "KAZMIER, Leonard J. Estatistica aplicada à administração e economia. 4. ed. Porto Alegre: Bookman, 2007. 387 p.",
+            "MORETTIN, Luiz Gonzaga. Estatística básica: probabilidade e inferência. São Paulo: Pearson Prentice Hall, c2010. xiv, 375 p. ISBN 9788576053705. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "7"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "3",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "7"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "4",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "7"
+    },
+    {
+        "codigo": "CAD8030",
+        "nome": "Imersão Profissional",
+        "carga_horaria_total": "432",
+        "carga_horaria_teorica": "180",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "CAD7305",
+        "prereq": "Ter cursado 1.800 horas/aula de disciplinas no curso",
+        "ementa": "Prática profissional em organizações. Prática profissional Acadêmica. Integração Teoria e Prática. Prática reflexiva, reflexividade e reflexão crítica.",
+        "objetivos": "Proporcionar uma prática profissional no campo da administração, bem como ações reflexivas sobre as atividades desenvolvidas.",
+        "bib_basica": [
+            "BACICH, Lilian; MORAN, José Manoel (org.). Metodologias ativas para uma educação inovadora: uma abordagem teórico-prática. Porto Alegre: Penso, 2018. xix, 238 p.",           
+            "SCHÖN D.A. Educando o profissional reflexivo: um novo design para o ensino e a aprendizagem. Porto Alegre: Artmed; 2000.",
+            "TARDIF, M. MOSCOSO, J. A noção de profissional reflexivo na educação: atualidade, usos e limites. Cad. Pesqui. 48 (168) • Apr-Jun 2018."
+        ],
+        "bib_complementar": [
+            "Braccialli, Luzmarina Aparecida Doretto, et al. \"Avaliação do estudante: no exercício de avaliação da prática profissional.\" Avaliação: Revista da Avaliação da Educação Superior (Campinas) 13 (2008): 101-118.",
+            "CATALINO, Madalena Maria Inácio. Da imersão no contexto à avaliação de impacto: o desenvolvimento de uma identidade profissional. 2020."
+        ],
+        "tipo": "Obrigatória",
+        "fase": "8"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "5",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "6",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "7",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "8",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "9",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "Optativa",
+        "nome": "10",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": null,
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": null,
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "DIR7003",
+        "nome": "Direito Tributário",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceito e princípios de Direito Tributário. O Tributo e as classificações. Análise dos elementos do conceito legal (Art.3º, CTN). Fato Gerador e Hipótese de Incidência na atividade empresária. Os Princípios Tributários. Sistema constitucional tributário. O Poder de tributar e a empresa.",
+        "objetivos": "Descrever os principais conceitos e princípios de Direito Tributário e sua relação com as organizações.",
+        "bib_basica": [
+            "AMARO, Luciano. Direito tributário brasileiro. 24. ed. São Paulo: Saraiva, 2021.",
+            "CARVALHO, Paulo de Barros. Curso de direito tributário. 30. ed. São Paulo: Saraiva. 2019.",
+            "SABBAG, Eduardo. Manual de Direito Tributário. 13. ed. São Paulo: Saraiva, 2021."
+        ],
+        "bib_complementar": [
+            "CRETELLA JÚNIOR, José; CRETELLA",
+            "NETO, José. 1.000 perguntas e respostas de direito tributario. 5. ed. Rio de Janeiro: Forense, 2001. 146 p. ISBN 8530905938. Número de chamada: 34:336.2 C924m",
+            "PAES, P. R. Tavares. Ações fiscais: mandado de segurança, ação anulatória de débitos fiscais e ação de repetição de indébito tributário. São Paulo: Saraiva, 1985. 80 p. (Coleção Saraiva de prática do direito ; 7). Número de chamada: 336.2.029(81):34 P126a",
+            "RIZELO, Sérgio Antônio. Anotações sobre crimes contra a ordem tributária. Florianópolis: IOESC, 1996. 175 p. (Cadernos do Ministério Público ; 1). Número de chamada: 343.359 R627a"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8031",
+        "nome": "Análise de Políticas Públicas",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Política Pública como campo de estudo. Modelos de análise de políticas públicas. Estudos de práticas de políticas públicas.",
+        "objetivos": "Proporcionar uma visão geral sobre a análise de políticas públicas e suas etapas de modo a desenvolver a capacidade de realizar uma análise de política pública com vistas à solução de problemas de interesse público.",
+        "bib_basica": [
+            "HEIDEMANN, Francisco Gabriel;",
+            "SALM, José Francisco (Organizadores). Políticas públicas e desenvolvimento: bases epistemológicas e modelos de análise. Brasília: Editora Universidade de Brasília, 2 a . Edição, 2010.",
+            "HOWLETT, Michael; RAMESH, M.;",
+            "PERL, Anthony. (Tradução Técnica Francisco Gabriel Heidemann) Política Pública: seus ciclos e subsistemas: uma abordagem integradora. Rio de Janeiro: Elsevier, 2013.",
+            "SECCHI, Leonardo. Análise de Políticas Públicas: diagnóstico de problemas, recomendação de soluções. 2ª edição. São Paulo: Cengage Learning, 2016. v. 1. 237p."
+        ],
+        "bib_complementar": [
+            "BICHIR, Renata. Olhares cruzados nas análises de políticas públicas. Revista Brasileira de Ciências Sociais., São Paulo , v. 30, n. 89, p. 175-181, Out. 2015. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102- 69092015000300175&lng=en&nrm=iso CARDOSO JUNIOR, José Celso.",
+            "CUNHA, Alexandre dos Santos (Orgs.) Planejamento e avaliação de políticas públicas. Brasília: Ipea, 2015. Disponível em: http://www.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/livro_ppa_vol_1 _web.pdf CONTROLADORIA-GERAL DA UNIÃO — CGU. Secretaria Federal de Controle Interno — SFC. Manual da Metodologia para Avaliação da Execução de Programas de Governo. Brasília: CGU, 2015. Disponível em: http://www.cgu.gov.br/Publicacoes/auditoria-e- fiscalizacao/arquivos/manual_aepg.pdf",
+            "FARAH, Marta Ferreira Santos. Análise de políticas públicas no Brasil: de uma prática não nomeada à institucionalização do \"campo de públicas\". Revista de Administração Pública – RAP. Rio de Janeiro, v. 50, n. 6, p. 959-979, Dez. 2016. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034- 76122016000600959&lng=en&nrm=iso"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8032",
+        "nome": "Círculo de leitura",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Leitura de obra científica ou literária relevante para a formação em Administração. Discussão em grupo. Reflexão.",
+        "objetivos": "Oportunizar ao aluno o aprofundamento em literatura relevante para o campo dos Estudos Organizacionais, promovendo o diálogo, o debate e a reflexão crítica e incentivando a leitura como forma de aproximação da realidade organizacional e social.",
+        "bib_basica": [
+            "ÁLVAREZ",
+            "ÁLVAREZ, C. (2016). Clubs de lectura: ¿Una práctica relevante hoy?. Información, Cultura Y Sociedad, (35), 91-106. https://doi.org/10.34096/ics.i35.2512 BARBEIRO, L.F.;",
+            "GAMBOA, M. José. Leitura: descoberta e partilha- o papel dos clubes de leitura. ESECS/Instituto Politécnico de Leiria, 2014. Disponível em: http://lectibe.eu/attachments/article/178/Estudo_Leitura_Descoberta_e_Partilha_L ectibe.pdf SCHMITZ-",
+            "BOCCIA, Andréa. Clubes de leitura: a construção de sentidos em situações de leitura colaborativa. In: Revista Acadêmica de Educação do ISE Vera Cruz, v. 2, n. 1, p. 97- 113, 2012."
+        ],
+        "bib_complementar": [
+            "Conforme sugestões do professor da disciplina e temática do semestre, a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8033",
+        "nome": "Comunicação Empresarial",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Comunicação, tecnologia, cultura e sociedade. Comunicação empresarial: conceitos, estratégias e objetivos. Comunicação estratégica e relações com stakeholders: sociedade, consumidores, público interno, investidores e governo. Identidade, imagem e reputação corporativa. Mídia e Opinião Pública. Propaganda Institucional, Comunicação Pública e Comunicação na Crise.",
+        "objetivos": "1) Apresentar e discutir conceitos centrais do processo de comunicação na sociedade da informação. 2) Reconhecer a comunicação como ativo estratégico dentro da complexidade dos sistemas organizacionais em um ambiente competitivo e em constante transformação. 3) Desenvolver habilidades e estratégias de comunicação empresarial como ferramenta de integração entre empresas e stakeholders.",
+        "bib_basica": [
+            "ARGENTI, Paul P. Comunicação empresarial: a construção da identidade, imagem e reputação. Rio de Janeiro: Elsevier, 2006. 327 p. ISBN 9788535220940.",
+            "BUENO, Wilson da Costa (org.). Estratégias de comunicação nas mídias sociais. 1. ed. Barueri: Monole, 2015. 229 p. (Comunicação empresarial). ISBN 9788520438442.",
+            "KUNSCH, Margarida Maria Krohling (org.). Comunicação organizacional estratégica: aportes conceituais e aplicados. São Paulo: Summus Editorial, 2016. 391 p. ISBN 9788532310460."
+        ],
+        "bib_complementar": [
+            "BARROS, Francisco Messias. A comunicação organizacional no gerenciamento de crises empresariais. Comunicação & Informação, Goiania, v.6, n.1 , p.46-53, jan. 2003.",
+            "GALINDO, Daniel dos Santos;",
+            "OLIVEIRA, Vânia Braz de (org.). Comunicação de mercado & contemporaneidade. São José dos Campos: Tachion, 2016. 155 p. ISBN 9788565111461.",
+            "GONÇALVES, Fernando do Nascimento; MEDINA",
+            "FILHO, Antonio Luiz de (org.). Comunicação, organizações e cultura digital. Rio de Janeiro: EdUERJ,"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8034",
+        "nome": "Estratégia e Tendências em Governos",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Perspectivas frente ao modelo tradicional de gestão do que é público. O papel do Estado junto ao desenvolvimento da sociedade. Gestão estratégica em governos. Gestão em projetos públicos. Controle na Administração Pública.",
+        "objetivos": "Apresentar perspectivas frente ao modelo tradicional de gestão do que é público, com destaque à discussão sobre o papel do Estado junto ao desenvolvimento da sociedade, a gestão estratégica em governos e a gestão em projetos públicos.",
+        "bib_basica": [
+            "PAULA, Ana Paula Paes de. Por Uma Nova Gestão Pública: limites e potencialidades da experiência contemporânea. Rio de Janeiro: FGV, 2005.",
+            "HEIDEMANN, Francisco G.;",
+            "SALM, José F. Políticas Públicas e Desenvolvimento: bases epistemológicas e modelos de análise. Brasília: UNB, 2009.",
+            "MARTINS, Humberto F.;",
+            "MARINI, Caio. Um guia de Governança para Resultados na Administração Pública. São Paulo: Publix, 2010. Disponível em: https://bvsms.saude.gov.br/bvs/publicacoes/guia_governanca_resultados_administr acao_publica.pdf"
+        ],
+        "bib_complementar": [
+            "HEIDEMANN, Francisco Gabriel;",
+            "SALM, José Francisco (Organizadores). Políticas públicas e desenvolvimento: bases epistemológicas e modelos de análise. Brasília: Editora Universidade de Brasília, 2a. Edição, 2010.",
+            "MENEZES, David Curtinaz e",
+            "VIEIRA, Diego Mota. Stakeholders, fatores críticos de sucesso e geração de valor em parcerias público-privadas. Revista de Administração Pública [online]. 2022, v. 56, n. 1 [Acessado 10 Junho 2022] , pp. 47-79. Disponível em: <https://doi.org/10.1590/0034-761220200659>. Epub 21 Mar 2022. ISSN 1982-3134. https://doi.org/10.1590/0034-761220200659 .",
+            "OLIVEIRA, Virgílio Cézar da Silva e et al. Combinação de esforços públicos e privados em âmbito municipal: análise interpretativa de uma experiência contemporânea. Cadernos EBAPE.BR [online]. 2009, v. 7, n. 1 [Acessado 10 Junho 2022] , pp. 113-134. Disponível em: <https://doi.org/10.1590/S1679- 39512009000100009>. Epub 05 Jul 2012. ISSN 1679-3951. https://doi.org/10.1590/S1679-39512009000100009>"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8035",
+        "nome": "Finanças Pessoais e Comportamentais",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceitos e prática da gestão financeira pessoal, valor do dinheiro no tempo, planejamento financeiro pessoal, introdução ao mercado financeiro, tipos de investimentos, perfil do investidor, renda fixa, renda variável, montando uma carteira de investimentos diversificada, planejamento de aposentadoria, finanças comportamentais e vieses cognitivos. Aplicação de casos práticos.",
+        "objetivos": "Habilitar os alunos a realizar o controle financeiro pessoal, planejamento financeiro e montar uma carteira de investimentos diversificada, tomando decisões financeiras mais assertivas visando o curto e longo prazo.",
+        "bib_basica": [
+            "ARIELY, Dan. Previsivelmente Irracional. Elsevier-Campus: 2008.",
+            "ASSAF",
+            "NETO, Alexandre. Mercado financeiro. São Paulo: Atlas, 2021.",
+            "CERBASI, Gustavo Petrasunas. Casais inteligentes enriquecem juntos. São Paulo: Gente, 2004",
+            "EWALD, Luís Carlos. Sobrou dinheiro! Lições de economia doméstica. 12ª ed. Rio Janeiro: Bertrand Brasil, 2006.",
+            "GRAHAM, Benjamin. O investidor inteligente: um guia prático de como ganhar dinheiro na Bolsa. Rio de Janeiro: Nova Fronteira, c2003 671 p. ISBN 9788520920008.",
+            "GUNTHER, Max. Os axiomas de Zurique. 8. ed. Rio de Janeiro: Best Business, 2019. 207 p. ISBN 9788568905159.",
+            "BERNSTEIN, Peter L.;",
+            "DAMODARAN, Aswath. Administração de investimentos. Porto Alegre: Bookman, 2000. 421 p. ISBN 8573076097.",
+            "KAHNEMAN, Daniel;",
+            "TVERSKY, Amos. Prospect theory: an analysis of decision under risk, Econometrica, v. 47(2), p. 263–292, 1979.",
+            "KAHNEMAN, Daniel. Rápido e devagar: Duas formas de pensar. Rio de Janeiro: Objetiva, 2012.",
+            "KIYOSAKI, Robert T.,",
+            "LECHTER, Sharon L. Pai rico pai pobre – O que os ricos ensinam a seus filhos sobre dinheiro. Rio de Janeiro: Campus, 2000. MACEDO Jr, Jurandir Sell. Árvore do dinheiro: guia para cultivar a sua independência financeira. Cópia física na BU ou cópia digital [EBook Kindle] KDP Amazon 2014."
+        ],
+        "bib_complementar": [
+            "SCHROEDER, Alice. A bola de neve: Warren Buffett e o negócio da vida. Rio de Janeiro: Sextante, 2008 959 p. ISBN 9788575424407.",
+            "HARARI, Yuval Noah. Sapiens: uma breve história da humanidade. Porto Alegre: L&PM Editores, 2015. 459 p. ISBN 9788525432186.",
+            "VIEIRA, KELMARA MENDES ; POTRICH, ANI CAROLINE GRIGION ;",
+            "BRESSAN, AURELIANO ANGEL . A proposal of a financial knowledge scale based on item response theory. JOURNAL OF BEHAVIORAL AND EXPERIMENTAL FINANCE, v. 28, p. 100405, 2020.",
+            "POTRICH, ANI CAROLINE GRIGION;",
+            "VIEIRA, KELMARA MENDES . Demystifying financial literacy: a behavioral perspective analysis. MANAGEMENT RESEARCH REVIEW, v. 41, p. 1047-1068, 2018."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8036",
+        "nome": "Negócios Digitais",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Desafios da transformação digital dos negócios. Plano de Negócios Digitais: tipologia e fundamentos. Elaboração do Plano de Negócios Digitais: etapas, métodos e técnicas. Ferramentas digitais para criação de novos negócios. Estudo de viabilidade.",
+        "objetivos": "Proporcionar o conhecimento sobre a realidade dos negócios digitais, e fomentar seu desenvolvimento.",
+        "bib_basica": [
+            "FAGUNDES, Eduardo Mayer. Como ingressar nos negócios digitais: [entre na era dos negócios digitais e fique à frente da concorrência]. São Paulo: Edições Inteligentes, 2004. 174 p ISBN 8576150387.",
+            "LOBÃO, Luis;",
+            "ZILLI, Carlos. A jornada da transformação digital. São Paulo: Lamonica, 2020. 498 p. ISBN 9786599215803.",
+            "LUVIZOTTO, Caroline Kraus; LOSNAK, Célio José;",
+            "ROTHBERG, Danilo (org.). Mídia e sociedade em transformação. São Paulo: Cultura acadêmica, 2016. 266 p. ISBN 9788579837487."
+        ],
+        "bib_complementar": [
+            "CLÁUDIO, Miguel André Ramalho. A subtributação dos negócios digitais: uma análise comparativa entre negócios digitais e negócios tradicionais. 2022. Tese de Doutorado.",
+            "PAKES, Alan. Negócios digitais: aprenda a usar o real poder da internet nos seus negócios. Editora Gente Liv e Edit Ltd, 2016.",
+            "PEREIRA, Jaiane Aparecida;",
+            "BERNARDO, Adriana. Empreendedorismo Digital: estudo do Projeto Negócios Digitais desenvolvido pelo SEBRAE-PR em Maringá. Desenvolvimento em Questão, v. 14, n. 37, p. 293-327, 2016. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8037",
+        "nome": "Formação e Gestão de Equipes de Alta Performance",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Equipe. Desenvolvimento de equipe. Estágios de desempenho de grupo. Objetivos. Tipos. Papéis fundamentais. Planejamento de desenvolvimento de equipe: fases do desenvolvimento. Funções. Liderança. Fenômenos de grupo. Barreiras ao desenvolvimento de equipes. Conflitos. Avaliação de resultados em desenvolvimento de equipe.",
+        "objetivos": "Apresentar ao aluno conhecimentos teóricos e experiências práticas voltadas ao desenvolvimento de competências para a formação e gestão de equipes de alta performance nas organizações.",
+        "bib_basica": [
+            "MOSCOVICI, Fela. Desenvolvimento Interpessoal: treinamento em grupo. 7 ed. Rio de janeiro: José Olympio, 1997.",
+            "KATZENBACH, J.,",
+            "SMITH, D. Equipes de alta performance: conceitos, princípios e técnicas para potencializar o desempenho das equipes. Rio de Janeiro: Campus, 2001.",
+            "REIS, Ana Maria Viegas et al. Desenvolvimento de Equipes. Rio de Janeiro: Editora FGV, 2007.",
+            "ROBBINS, STEPHEN P. Comportamento organizacional. 11. Ed. São Paulo: Pearson Prentice Hall, 2005."
+        ],
+        "bib_complementar": [
+            "CHIAVENATO, I. Introdução à teoria geral da administração. 9. ed. [s. l.]: Manole, 2014.",
+            "CLEGG, S.; PITSIS, T.;",
+            "KORNBERGER, M. Administração e organizações : uma introdução à teoria e à prática. 2. ed. [s. l.]: Bookman, 2011.",
+            "LACOMBE, Francisco. Teoria Geral da Administração: São Paulo: Saraiva, 2009. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8038",
+        "nome": "Gestão da Qualidade",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceito, histórico e fundamentos da qualidade. Gerenciamento estratégico da qualidade. Sistema de gestão da qualidade. Ferramentas para o controle e melhoria da qualidade. Sistemas de medição e desempenho. Benchmarking. Certificações de qualidade. Qualidade em serviços.",
+        "objetivos": "Compreender os conceitos gerais da gestão da qualidade, proporcionando uma visão panorâmica das principais áreas de decisão desta função gerencial, desenvolvendo a cultura da qualidade, melhorando as habilidades para a utilização das principais ferramentas e técnicas das rotinas e programas de qualidade.",
+        "bib_basica": [
+            "CARPINETTI, Luiz Cesar Ribeiro. Gestão da qualidade: conceitos e técnicas. 3. ed. São Paulo: Atlas, c2016. x, ISBN 9788597003918.",
+            "PALADINI, Edson P. Gestão da qualidade: teoria e prática. 3. ed. -. São Paulo: Atlas, 2012. ISBN 9788522471157.",
+            "PALADINI, Edson Pacheco. Gestão e avaliação da qualidade em serviços para organizações competitivas: estratégias básicas e o cliente misterioso /Edson Pacheco Paladini, Eduardo Bridi. São Paulo: Atlas, 2013.",
+            "TOLEDO, Jose Carlos de et al. Qualidade: gestão e métodos. Rio de Janeiro: LTC, 2013. xvii, ISBN 9788521621171."
+        ],
+        "bib_complementar": [
+            "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR ISO 9001: Sistemas de gestão da qualidade - requisitos. 2. ed. Rio de Janeiro, 2008. VIII, 28 p. Disponível em: http://www.bu.ufsc.br/consultasAcessos/SABERBasesAcessoRestrito.html",
+            "RODRIGUES, Marcus Vinicius Carvalho. Ações para a qualidade: gestão estratégica e integrada para a melhoria dos processos na busca da qualidade e produtividade (GEIQ). 6. ed. rev. e ampl. São Paulo: GEN, 2020. xxvii, 360 p. ISBN 9788595150140.",
+            "SILVA, João Martins da. 5s: o ambiente da qualidade. 2. ed. Belo Horizonte: FCO, c1994. 160 p. ISBN 8585447109."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8039",
+        "nome": "Gestão e Políticas Públicas",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Política Pública como campo de estudo. Conceito e ciclo de vida das Políticas Públicas. Modelos de análise de Políticas Públicas. Índices e indicadores de resultados em Políticas Públicas.",
+        "objetivos": "Proporcionar ao estudante um entendimento sobre o campo de estudos de políticas públicas, conceito e ciclo de vida bem como modelos de análise, índices e indicadores de resultados em Políticas Públicas.",
+        "bib_basica": [
+            "HEIDEMANN, Francisco Gabriel;",
+            "SALM, José Francisco (Organizadores). Políticas públicas e desenvolvimento: bases epistemológicas e modelos de análise. Brasília: Editora Universidade de Brasília, 2a. Edição, 2010.",
+            "PAULA, Ana Paula Paes de. Por uma nova gestão pública: limites e potencialidades da experiência contemporânea. Rio de Janeiro: Editora FGV, 2005.",
+            "RAMOS, Alberto Guerreiro. Administração e contexto brasileiro. Rio de Janeiro: FGV, 1966."
+        ],
+        "bib_complementar": [
+            "BICHIR, Renata. Olhares cruzados nas análises de políticas públicas. Revista Brasileira de Ciências Sociais., São Paulo , v. 30, n. 89, p. 175-181, Out. 2015. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102- 69092015000300175&lng=en&nrm=iso CARDOSO JUNIOR, José Celso.",
+            "CUNHA, Alexandre dos Santos (Orgs.) Planejamento e avaliação de políticas públicas. Brasília: Ipea, 2015. Disponível em: http://www.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/livro_ppa_vol_1 _web.pdf CONTROLADORIA-GERAL DA UNIÃO — CGU. Secretaria Federal de Controle Interno — SFC. Manual da Metodologia para Avaliação da Execução de Programas de Governo. Brasília: CGU, 2015. Disponível em: http://www.cgu.gov.br/Publicacoes/auditoria-e- fiscalizacao/arquivos/manual_aepg.pdf",
+            "FARAH, Marta Ferreira Santos. Análise de políticas públicas no Brasil: de uma prática não nomeada à institucionalização do \"campo de públicas\". Revista de Administração Pública – RAP. Rio de Janeiro, v. 50, n. 6, p. 959-979, Dez. 2016. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8040",
+        "nome": "Gestão Estratégica de Marcas",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "A evolução das marcas e seu papel na sociedade de consumo. Gestão de marcas como ativo estratégico das organizações. Mensuração de valor de marca e modelos de Brand Equity. Gestão estratégica de marcas: arquitetura de marca, marca- produto e marca-organização; elementos de marca: nome, slogan, design, embalagem, personagem, símbolo; sistema de identidade, portfolio e extensão de marcas; Posicionamento e comunicação de marca. Perspectivas e tendências da gestão estratégica de marcas.",
+        "objetivos": "Discutir e compreender a importância da gestão de marcas para as organizações.",
+        "bib_basica": [
+            "AAKER, David A. Marcas: brand equity : gerenciando o valor da marca. São Paulo: Negocio, 1998. 309 p. ISBN 858601415X.",
+            "KOTLER, Philip;",
+            "KELLER, Kevin L. Administração de Marketing – 15ª Ed. São Paulo: Pearson Prentice Hall, 2019.",
+            "RIES, All.;",
+            "TROUT, Jack. Posicionamento: a batalha por sua mente. 1ª ed. São Paulo: MBooks, 2019."
+        ],
+        "bib_complementar": [
+            "KOTLER, Philip;",
+            "PFOERTSCH, Waldemar. B2B Brand Management. 1st ed. 2006. Berlin, Heidelberg: Springer Berlin Heidelberg: Imprint: Springer, 2006. xvi, 357 p ISBN 9783540447290. Disponível em: https://doi.org/10.1007/978-3- 540-44729-0 NASCIMENTO, Augusto;",
+            "LAUTERBORN, Robert F. Os 4Es de marketing e branding: evolução de conceitos e contextos até a era da marca como ativo intangível. Rio de Janeiro: Elsevier, 2007. 150p ISBN 9788535227475.",
+            "RIES, Al;",
+            "RIES, Laura. As 22 consagradas leis de marcas. São Paulo: Makron Books, c2000. 133p Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8041",
+        "nome": "Inteligência Emocional e Social",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "O conceito de Inteligência ao longo da história. As inteligências múltiplas e o empreendedorismo. Inteligência Emocional (IE) nas organizações. Inteligência Social (IS) e trabalho em equipe. Empatia e resiliência no processo de inovação. Sustentabilidade Social com IE e IS.",
+        "objetivos": "Desenvolver competências relacionadas a inteligência emocional e social.",
+        "bib_basica": [
+            "ANTUNES, Celso. A inteligencia emocional na construção do novo eu. 4. ed. Petropolis: Vozes, 1998. 84p ISBN 85.326.18383.",
+            "GOLEMAN, Daniel. Inteligência Emocional: a teoria revolucionária que redefine o que é ser inteligente. 37. ed. Rio de Janeiro: Objetiva, 2012.",
+            "GOLEMAN, Daniel. Inteligência Social. Rio de Janeiro: Objetiva, 2010."
+        ],
+        "bib_complementar": [
+            "AFONSO, Maria Manuela. A Evolução da Cooperação para o Desenvolvimento. Título: abCD Introdução à Cooperação para o Desenvolvimento Maria Manuela Afonso, v. 23, 2005.",
+            "GOLEMAN, Daniel. Foco: a atenção e seu papel fundamental para o sucesso. 1. ed. Rio de Janeiro: Objetiva, 2014. 294 p. ISBN 9788539005352. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8042",
+        "nome": "International Business",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Introduction to International Business; International Trade: exports and imports; Foreign Investment; Offshoring and service exports; International business environment: cultural, legal, political, and economical aspects; International business strategies; International Business In Brazil; Organizations that support international business activities in Brazil.",
+        "objetivos": "Conhecer os contextos e as diferentes atividades envolvidas nos Negócios Internacionais.",
+        "bib_basica": [
+            "CUERVO- CAZURRA, A; MALONEY, M. M.;",
+            "MANRAKHAN, S. Causes of the difficulties in internationalization. Journal of International Business Studies, 38 (5), 2007, p. 709-725.",
+            "HAMEL, G.;",
+            "PRAHALAD, C. K. Do you have a global strategy? Harvard Business Review, 63 (4), 1985, p. 139-148.",
+            "LOPES",
+            "VAZQUEZ, J. Comércio exterior brasileiro. São Paulo: Atlas, 2012.",
+            "PORTER, Michael E. A vantagem competitiva das nações. Rio de Janeiro: Campus, 1989."
+        ],
+        "bib_complementar": [
+            "BARBOSA, R. A.. América Latina em perspectiva: a integração regional da retorica a realidade. São Paulo; Aduaneiras, c1991 LUO, Y; ZHAO; H. Doing business in a transitional society: economic environment and relational political strategy for multinationals. Business & Society, 20 (10), 2009, p.1-34.",
+            "ZHOU, K. Z.;",
+            "POPPO, L. Exchange hazards, relational reliability, and contracts in China: the contingent role and enforceability. Journal of International Business Studies, 41 (5), 2010, p. 861-881."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8043",
+        "nome": "Liderança e Desenvolvimento de Carreira para Mulheres",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Gênero. Representações e estereótipos de gênero. Divisão Sexual do Trabalho. Liderança feminina. Princípios para o Empoderamento Feminino da ONU (WEP). Mulheres e desenvolvimento de carreira. Planejamento de Carreira.",
+        "objetivos": "Oportunizar à aluna reflexões teóricas e práticas para que ela aprenda a fazer escolhas conscientes e planejar opções de forma antecipada em relação à sua carreira e a gerenciar de maneira efetiva sua implementação e a transição da universidade para o mundo adulto e a vida no trabalho, considerando as especificidades dos desafios enfrentados pelas mulheres no mercado de trabalho.",
+        "bib_basica": [
+            "KOSSEK, EE,",
+            "BUZZANELL, PM. Women's career equality and leadership in organizations: Creating an evidence-based positive change. Hum Resour Manage. 2018; 57: 813– 822. https://doi.org/10.1002/hrm.21936 ORGANIZAÇÃO DAS NAÇÕES UNIDAS. Igualdade significa bons negócios. ONU, 2021. Disponível em http://www.onumulheres.org.br/wp- content/uploads/2021/09/ONU_BROCHURA-WEPs_PT_REV.pdf FRAGA, A.",
+            "ROCHA- DE-",
+            "OLIVEIRA, S. Mobilidades no labirinto: tensionando as fronteiras nas carreiras de mulheres. Cad EBAPE.BR, v.18 (spe), 2020."
+        ],
+        "bib_complementar": [
+            "DOS SANTOS CANABARRO, Janaína Raquel;",
+            "SALVAGNI, Julice. Mulheres líderes: as desigualdades de gênero, carreira e família nas organizações de trabalho. Revista de Gestão e Secretariado, v. 6, n. 2, p. 88-110, 2015.",
+            "HRYNIEWICZ, Lygia Gonçalves Costa;",
+            "VIANNA, Maria Amorim. Mulheres em posição de liderança: obstáculos e expectativas de gênero em cargos gerenciais. Cadernos Ebape. br, v. 16, p. 331-344, 2018. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8044",
+        "nome": "Logística Internacional",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "A Logística e os Mercados Globais. Logística Internacional. Gestão da Cadeia Internacional de Suprimentos. Infraestrutura Logística e Transporte Internacional. Métodos de Entrada em Mercados Estrangeiros. INCOTERMS. Embalagem Internacional. Processos Logísticos. Condições de Pagamento. Documentos. Seguro Internacional. Desembaraço Alfandegário. Gestão da Distribuição Internacional. Gestão Internacional de Suprimentos.",
+        "objetivos": "Compreender a relação da logística com os mercados globais, bem como os conceitos, funções e relevância da logística internacional, identificando os principais componentes da cadeia internacional de suprimentos e a infraestrutura e os transportes internacionais. Desenvolver a compreensão do estudante quanto ao tramites de importação, exportação e INCOTEMS, despertando competências e habilidades necessárias para o exercício da profissão.",
+        "bib_basica": [
+            "DORNIER, Philippe-Pierre et al. Logística e operações globais: textos e casos. São Paulo: Atlas, 2000.",
+            "LUDOVIVO, Nelson. Logística Internacional. São Paulo: Saraiva, 2018.",
+            "RODRIGUES, P. R. A. Introdução aos sistemas de transporte no Brasil e à Logística Internacional. São Paulos: Aduaneiras, 2017."
+        ],
+        "bib_complementar": [
+            "BALOCCO, Marcos Luiz Carneiro. Terceirização da logística internacional no departamento de exploração e produção da Petrobras: um estudo de caso da Bacia de Campos. Florianópolis, 2002. 115 f. Dissertação (Mestrado) - Universidade Federal de Santa Catarina, Centro Tecnológico. Programa de Pós-Graduação em Engenharia de Produção. Disponível em: http://www.bu.ufsc.br/teses/PEPS4159- D.pdf",
+            "HANDABAKA, Alberto Ruibal. Gestão logística da distribuição física internacional. São Paulo: Maltese, 1994. 466 p. ISBN 8571804907. SEMINÁRIO INTERNACIONAL: '",
+            "LOGÍSTICA, BASE PARA O DESENVIMENTO SUSTENTÁVEL', 1., 2011, São Luís, MA. I Seminario Internacional 'Logistica, base para o Desenvolvimento Sustentável': edição Maranhão. São Luís: Antaq, 2011. 197 p."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8045",
+        "nome": "Logística Reversa e Logística Verde",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Economia Circular. Logística Reversa: conceitos, caracterização, definição e áreas de atuação; Objetivos estratégicos da Logística Reversa; principais vertentes: ambiental, social, econômica e legal; Canais de Distribuição Reversos (CDRs); Logística Reversa dos bens de pós-consumo; Logística Reversa dos bens de pós- venda. Logística Verde: conceitos e caracterização. Competitividade pela Logística Verde. Política Nacional de Resíduos Sólidos.",
+        "objetivos": "Compreender os conceitos, funções e relevância da logística reversa e logística verde, identificando os principais componentes do ambiente reverso da logística e suas implicações para o alcance dos objetivos organizacionais e ambientais. Desenvolver a compreensão do estudante quanto a importância da Logística verde, despertando competências e habilidades necessárias para gerenciar o fluxo reverso da logística bem como a competitividade por meio da logística verde no exercício da profissão.",
+        "bib_basica": [
+            "DONATO, VITÓRIO; Logística Verde – Uma Abordagem Sócio-Ambiental. Rio de Janeiro:Ciência Modena, 2008.",
+            "LEITE, P. R. Logística Reversa – Meio Ambiente e Competitividade. São Paulo: PrenticeHall, 2006. SEMINÁRIO INTERNACIONAL: '",
+            "LOGÍSTICA, BASE PARA O DESENVIMENTO SUSTENTÁVEL', 1., 2011, São Luís, MA. I Seminario Internacional 'Logistica, base para o Desenvolvimento Sustentável': edição Maranhão. São Luís: Antaq, 2011. 197 p."
+        ],
+        "bib_complementar": [
+            "ALVARENGA, Tiago Henrique de Paula. Relacionamento entre pressões institucionais e atividades de logística verde e seus reflexos no desempenho dos operadores de serviços logísticos. 2018. 190 p. Tese (Doutorado) - Universidade Federal de Santa Catarina, Centro Tecnológico, Programa de Pós-Graduação em Engenharia de Produção, Florianópolis, 2018. Disponível em: http://www.bu.ufsc.br/teses/PEPS5734-T.pdf. Acesso em: 31 out. 2019.",
+            "BALLOU, Ronald H. Gerenciamento da cadeia de suprimentos/logística empresarial. 5. ed. Porto Alegre: Bookman, 2006. 616 p. ISBN 9788536305912.",
+            "CHOPRA, Sunil;",
+            "MEINDL, Peter. Gestão da cadeia de suprimentos: estratégia, planejamento e operações. 6. ed. São Paulo: Pearson Prentice Hall, c2016. xvii, 522 p. ISBN 9788543004747."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8046",
+        "nome": "Parcerias Público-Privadas",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Estratégias colaborativas. Coopetition. Relações Público-Privadas. Corrupção na Administração Pública. Desestatização Administração Pública. Parcerias Público- Privadas (PPP). Parcerias Público-Privadas no Brasil. Ciclo das Parcerias Público- Privadas. Lei 11.079/2004. Discussão de casos práticos.",
+        "objetivos": "Apresentar conceitos, características e modelos de parcerias público-privadas enfatizando: Estratégias colaborativas; Coopetition; Relações Público-Privadas; Corrupção na Administração Pública; Desestatização Administração Pública; Parcerias Público-Privadas (PPP) no Brasil, Ciclo das Parcerias Público-Privadas, Lei 11.079/2004 e suas alterações e discussão de casos práticos.",
+        "bib_basica": [
+            "FIRMINO, S. I. Fatores críticos de sucesso das Parcerias Público-Privadas: aspectos político-institucionais. Estudo de caso das rodovias em Portugal. Revista de Administração Pública, 52 (6), p. 1270-1281, 2018.",
+            "REIS, C.;",
+            "CABRAL, S. Parcerias público-privadas (PPP) em megaeventos esportivos: um estudo comparativo da provisão de arenas esportivas para a Copa do Mundo Fifa Brasil 2014. Revista de Administração Pública, 51 (4), p. 551-579, 2017.",
+            "RODRIGUES, B.;",
+            "ZUCCO, C. Uma comparação direta do desempenho de uma PPP com o modelo tradicional de contratação pública. Revista de Administração Pública, 52 (6), p. 1237-1257, 2018.",
+            "THAMER, R.;",
+            "LAZZARINI, S. G. Projetos de parceria público-privada: fatores que influenciam o avanço dessas iniciativas. Revista de Administração Pública, 49 (4), p. 819-846, 2015."
+        ],
+        "bib_complementar": [
+            "CAMPOS, Marilene de Souza et al. CONTROLE SOCIAL E PRODUÇÃO DE POLÍTICAS ATRAVÉS DE CONTRATOS: PARCERIAS PÚBLICO- PRIVADAS DE MINAS GERAIS E SÃO PAULO NO PERÍODO 2005-2015 1 1 Recebido em 20/10/2019, aceito em 14/7/2020. . REAd. Revista Eletrônica de Administração (Porto Alegre) [online]. 2020, v. 26, n. 3 [Acessado 14 Junho 2022] , pp. 673-708. Disponível em: <https://doi.org/10.1590/1413-2311.299.97769>. Epub 15 Jan 2021.",
+            "MELO- SILVA, Gustavo, LOURENÇO, Rosenery Loureiro e",
+            "ANGOTTI, MarcelloParcerias Público-Privadas: modernização administrativa e relacionamentos econômicos imersos em conflitos de interesse e corrupção. Revista de Administração Pública [online]. 2021, v. 55, n. 3 [Acessado 14 Junho 2022] , pp. 538-558. Disponível em: <https://doi.org/10.1590/0034-"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8047",
+        "nome": "Reading Club",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Leitura de obra científica ou literária, escrita em língua inglesa, relevante para a formação em Administração. Discussão em grupo. Reflexão.",
+        "objetivos": "To provide the student with an opportunity to delve into relevant literature for the field of Organizational Studies, promoting dialogue, debate and critical reflection and encouraging reading as a way of approaching organizational and social reality.",
+        "bib_basica": [
+            "ÁLVAREZ",
+            "ÁLVAREZ, C. (2016). Clubs de lectura: ¿Una práctica relevante hoy?. Información, Cultura Y Sociedad, (35), 91-106. https://doi.org/10.34096/ics.i35.2512 BARBEIRO, L.F.;",
+            "GAMBOA, M. José. Leitura: descoberta e partilha- o papel dos clubes de leitura. ESECS/Instituto Politécnico de Leiria, 2014. Disponível em: http://lectibe.eu/attachments/article/178/Estudo_Leitura_Descoberta_e_Partilha_Le ctibe.pdf SCHMITZ-",
+            "BOCCIA, Andréa. Clubes de leitura: a construção de sentidos em situações de leitura colaborativa. In: Revista Acadêmica de Educação do ISE Vera Cruz, v. 2, n. 1, p. 97- 113, 2012."
+        ],
+        "bib_complementar": [
+            "DE OLIVEIRA BARROS, Francisco Jairo;",
+            "HAIASHIDA, Keila Andrade. Clube de leitura: aprendizagem em construção. Ensino em Perspectivas, v. 2, n. 4, p. 1- 11, 2021.",
+            "VALENTE, Thiago Alves;",
+            "DOMINGOS, Juliete Rosa. Clube de leitura: estratégia para formação de leitores. Revista Leia Escola, v. 19, n. 3, p. 22-32, 2020. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8048",
+        "nome": "Tópicos de Marketing",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Apresentação de temas contemporâneos de marketing que ampliam o conjunto de técnicas para criar e manter relacionamentos entre organizações, mercados e sociedade. Discussão das novas fronteiras no conhecimento e aspectos da transformação de conceitos fundamentais em decorrência das novas possibilidades tecnológicas, tendências do comportamento do consumidor e das relações do marketing com diversos grupos de interesse.",
+        "objetivos": "Proporcionar discussões sobre as novas fronteiras no conhecimento em gestão de marketing e discutir sobre os desafios contemporâneos da área.",
+        "bib_basica": [
+            "DE OLIVEIRA, Elaine Ribeiro; MOURAD, Aimãn Ibrahim;",
+            "MELLO, Jefferson Lisboa. Reflexão sobre os fundamentos da teoria do marketing e tendências contemporâneas. Pensamento & Realidade, v. 31, n. 1, p. 1-16, 2016.",
+            "MEDINA, Irene GarcIa. Marketing Digital Multimedia: nuevos formatos y tendencias. Revista Géminis, v. 2, n. 2, p. 37-45, 2011.",
+            "OKADA, Sionara Ioco; DE",
+            "SOUZA, Eliane Moreira Sá. Estratégias de marketing digital na era da busca. Revista Brasileira de Marketing, v. 10, n. 1, p. 46-72, 2011."
+        ],
+        "bib_complementar": [
+            "ALONSO-",
+            "GONZALEZ, Antonio. Nuevas tendencias del marketing en las ciencias económicas y administrativas. Cuadernos Latinoamericanos de administración, v. 13, n. 25, p. 5-8, 2017.",
+            "MOTA, Laura Gris; DE",
+            "OLIVEIRA, Elton Tamiozzo. MARKETING DIGITAL E AS TENDÊNCIAS DAS REDES SOCIAIS EM UM FUTURO PRÓXIMO1. Trabalho de conclusão do curso de pós-graduação lato sensu à distância em Gestão e Marketing Digital pelo convênio UCDB/Portal Educação. Campo Grande/MS, 2014.",
+            "RODRÍGUEZ, M.; PINEDA, Derly Y.;",
+            "CASTRO, Carolina. Tendencias del marketing moderno, una revisión teórica. Revista ESPACIOS. ISSN, v. 798, p. 1015, 2020. Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD7824",
+        "nome": "Cross-Cultural Communication & Leadership",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Cultural Intelligence. Dimensions of Culture. Intercultural Communication. Negotiating Across Cultures. Working and Leading Multicultural Teams. Emerging Careers in the Digital and Globalized World.",
+        "objetivos": "This hands-on course on cross-cultural communication, negotiation & leadership aims to develop the intercultural skills required to improve your career as employee, leader, consultant, business developer or social entrepreneur in the globalized world. So regardless if you are studying management, computer science, engineering or geography, you will probably work with people from different cultures. In this course we will discuss key issues shaping the future of work in a globalized and digital world, such as cultural intelligence, the dimensions of culture, verbal and nonverbal communication styles, negotiating across cultures, leading multicultural teams, and emerging careers in the digital-global village.",
+        "bib_basica": [
+            "THOMAS, D. &",
+            "INKSON, K. (2017) Cultural Intelligence: Surviving and Thriving in the Global Village [chapters: 2, 3, 5, 6, 7, 8]. 3rd Edition. Berrett- Koehler Publishers. Interactive Country Comparison of The Hofstede’s Dimensions of Culture. https://geert-hofstede.com/countries.html Culture Crossing by Country Database: http://guide.culturecrossing.net/index.php World Business Culture – International Business Etiquette by Country & Region Database: http://www.worldbusinessculture.com/international-businesss- etiquette.html"
+        ],
+        "bib_complementar": [
+            "World Bank Ease of Doing Business Database: http://www.doingbusiness.org/rankings Human Development Index by Country Database: http://hdr.undp.org/en/countries GINI Index Database: https://www.cia.gov/library/publications/the-world- factbook/"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8049",
+        "nome": "Tópicos Especiais em Gestão I",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "DIR7001",
+        "prereq": null,
+        "ementa": "Temas emergentes voltados à teoria em gestão.",
+        "objetivos": "Apresentar ao estudante temas emergentes voltados à teoria em gestão.",
+        "bib_basica": [
+            "DAFT, R. L. Administração. Rio de Janeiro: Cengage Learning, 2010.",
+            "MAXIMIANO, A. C. A. Introdução à administração. 8. ed. rev. e ampl. [s. l.]: Atlas, 2017.",
+            "SOBRAL, F.;",
+            "PECI, A. Administração: teoria e prática no contexto brasileiro. 2.ed. São Paulo: Prentice Hall, 2013."
+        ],
+        "bib_complementar": [
+            "CHIAVENATO, I. Introdução à teoria geral da administração. 9. ed. [s. l.]: Manole, 2014.",
+            "CLEGG, S.; PITSIS, T.;",
+            "KORNBERGER, M. Administração e organizações : uma introdução à teoria e à prática. 2. ed. [s. l.]: Bookman, 2011.",
+            "LACOMBE, Francisco. Teoria Geral da Administração: São Paulo: Saraiva, 2009."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8050",
+        "nome": "Tópicos Especiais em Gestão II",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": "FIL7102",
+        "prereq": null,
+        "ementa": "Temas emergentes voltados à prática da gestão.",
+        "objetivos": "Apresentar aos estudantes temas emergentes voltados à prática da gestão.",
+        "bib_basica": [
+            "DAFT, R. L. Administração. Rio de Janeiro: Cengage Learning, 2010.",
+            "MAXIMIANO, A. C. A. Introdução à administração. 8. ed. rev. e ampl. [s. l.]: Atlas, 2017.",
+            "SOBRAL, F.;",
+            "PECI, A. Administração: teoria e prática no contexto brasileiro. 2.ed. São Paulo: Prentice Hall, 2013."
+        ],
+        "bib_complementar": [
+            "CHIAVENATO, I. Introdução à teoria geral da administração. 9. ed. [s. l.]: Manole, 2014.",
+            "CLEGG, S.; PITSIS, T.;",
+            "KORNBERGER, M. Administração e organizações : uma introdução à teoria e à prática. 2. ed. [s. l.]: Bookman, 2011.",
+            "LACOMBE, Francisco. Teoria Geral da Administração: São Paulo: Saraiva, 2009."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8051",
+        "nome": "Direitos Humanos nas Organizações",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Afirmação histórica dos Direitos Humanos (DH). Direitos humanos nas empresas ou nas organizações? Princípios Orientadores dos DH e sustentabilidade. Due Diligence e Responsabilização. DH e tecnologia.",
+        "objetivos": "Identificar a importância em respeitar os Direitos humanos nas organizações.",
+        "bib_basica": [
+            "BRASIL. Implementando os Princípios Orientadores sobre Empresas e Direitos Humanos da ONU: O dever do Estado de proteger e a obrigação das empresas de respeitar os direitos humanos. 2021. Disponível em: https://repositorio.enap.gov.br/bitstream/1/6452/2/M%C3%B3dulo%202%20%E2 %80%93%20O%20Dever%20dos%20Estados%20de%20Proteger%20os%20Direi tos%20Humanos.pdf",
+            "COMPARATO, Fábio Konder. A afirmação histórica dos direitos humanos. São Paulo: Saraiva, 2019. HOMA - Centro de Direitos Humanos e Empresas (Org.) Direitos Humanos e Empresas: o Estado da Arte do Direito Brasileiro / HOMA - Centro de Direitos Humanos e Empresas (Organizador), Juiz de Fora: Editar Editora Associada Ltda, 2016. Disponível em: http://homacdhe.com/wp-content/uploads/2017/03/Direitos- Humanos-e-Empresas.pdf ROLAND, Manoela C., SOARES, Andressa O., BREGA, Gabriel R., OLIVEIRA, Lucas de S., CARVALHO, Maria Fernanda C. G.,",
+            "ROCHA, Renata P. Cadeias de Valor e os impactos na responsabilização das empresas por violações de Direitos Humanos. In. Cadernos de Pesquisa Homa. vol. 1, n. 5, 2018. Disponível em: http://homacdhe.com/wp-content/uploads/2018/08/Cadernos-de-Pesquisa-Homa- Cadeias-de-Valor.pdf"
+        ],
+        "bib_complementar": [],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "CAD8052",
+        "nome": "Gestão de Pessoas: Temas Transversais e Tendências",
+        "carga_horaria_total": null,
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Desafios contemporâneos e gestão de pessoas. Novas fronteiras no conhecimento em gestão de pessoas. Temas transversais em Gestão de Pessoas.",
+        "objetivos": null,
+        "bib_basica": [],
+        "bib_complementar": [
+            "Segrest, S. L., Hurley-Hanson, A. E., & Giannantonio, C. M. (2021). Pessoas refugiadas ou deslocadas no ambiente de trabalho. Cadernos EBAPE.BR, 19(2). https://doi.org/10.1590/1679-395183232 Teixeira, Juliana Cristina et al. INCLUSÃO E DIVERSIDADE NA ADMINISTRAÇÃO: MANIFESTA PARA O FUTURO-PRESENTE. Revista de Administração de Empresas [online]. 2021, v. 61, n. 3 [Acessado 21 Junho 2022] , e0000-0016. Disponível em: <https://doi.org/10.1590/S0034-759020210308 https://doi.org/10.1590/S0034-759020210308x>. Epub 17 Maio 2021. ISSN 2178- 938X. https://doi.org/10.1590/S0034-759020210308. Tonelli, Maria José, and Adriana Wilner. \"Tendências na área de gestão de pessoas.\" GV-EXECUTIVO 17.4 (2018). Conforme sugestões do professor da disciplina a ser aprovada semestralmente pelo NDE e Colegiado do Curso, conforme legislação vigente."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC6716",
+        "nome": "Propriedade Intelectual",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Introdução à Propriedade Intelectual. Direitos Autorais. Propriedade Industrial. Patentes. Marcas. Concorrência Desleal e Propriedade Intelectual.",
+        "objetivos": "Apresentar aos alunos os fundamentos dos dois ramos da propriedade intelectual: os direitos autorais e a propriedade industrial. Familiarizar o discente com as discussões envolvendo direitos autorais, marcas e patentes, além dos instrumentos disponíveis para sua proteção. Os temas serão perpassados por discussões acerca dos desafios provocados pelas novas tecnologias e da tensão existente entre a crescente proteção da propriedade intelectual, reforçada por tratados e políticas internacionais, e a perspectiva pública de acesso ao conhecimento.",
+        "bib_basica": [
+            "BARBOSA, Denis Borges. Tratado da Propriedade Intelectual. ts. I a IV. Rio de Janeiro: Lumen Juris, 2017.",
+            "SOARES, J. C. T. Tratado da propriedade industrial : patentes e seus sucedâneos. [s. l.]: Jurídica Brasileira, 1998.",
+            "VIEIRA, Marcos Antonio. Propriedade Industrial; Rio de Janeiro: Lumen Juris, 2006."
+        ],
+        "bib_complementar": [
+            "BARBOSA, D. B. Uma introdução à propriedade intelectual. 2. ed., e atual. [s. l.]: Lumen Juris, 2003.",
+            "BITTAR, C. A. Direito de autor. 4. ed. rev., e atual. [s. l.]: Forense, 2005."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC6717",
+        "nome": "Destino Turístico Inteligente e Inovador",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Modelos Contemporâneos de Gestão de Destinos Turísticos; Smart Tourism Destination; Políticas Públicas em Turismo; Commons Turístico; Plataforma de Negócios em Turismo; Ecossistemas de Inovação em Turismo; Turismo e Consumidor 5.0; Métodos e técnicas de engenharia e gestão do conhecimento para gestão de destinos turísticos inteligentes e inovadores.",
+        "objetivos": "Disseminar a importância do turismo como eixo de desenvolvimento socioeconômico, cultural e ambiental de uma localidade, região, estado e nação por meio das práticas e modelos inovadores de gestão, planejamento, inovação e métodos e técnicas de engenharia e gestão do conhecimento para a formação de senso crítico, analítico e empreendedor na gestão de destinos turísticos.",
+        "bib_basica": [
+            "ALBERTIN, A. L. Comércio eletrônico: modelo, aspectos e contribuições de sua aplicação. 6. ed. atual. ampl. São Paulo: Atlas, 2010. DEPINÉ, Á;",
+            "TEIXEIRA, C. S. Habitats de inovação: conceito e prática / Ágatha Depiné; Clarissa Stefani Teixeira (Orgs.) – São Paulo: Perse. 220p. v.3: il. 2020. Disponível em: https://via.ufsc.br/download-ebook-habitats-conceito-e-pratica-vol- 3/",
+            "MUNIZ, E. C. L. Gestão do Conhecimento do Cliente e Destinos Turísticos Inteligentes: um framework para gestão inteligente da experiência turística SMARTOUR. [tese]. Florianópolis: Programa de pós-graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina; 2020. Disponível em: http://btd.egc.ufsc.br/?s=emerson",
+            "ROTTA, M. J. R. As plataformas de governo eletrônico e seu potencial para a promoção dos princípios dos commons: O caso dos municípios brasileiros [tese]. Florianópolis: Programa de pós-graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina; 2018. Disponível em: http://btd.egc.ufsc.br/?s=ROTTA%2C+Maur%C3%ADcio+Jos%C3%A9+Ribeiro"
+        ],
+        "bib_complementar": [
+            "BIZ, A. A.; TODESCO, J. L.;",
+            "PACHECO, R. C. S. Estrutura Conceitual de Plataforma de eGov para o Ministério do Turismo (MTur). Caderno Virtual de Turismo (UFRJ), v. 19, p. 1-13, 2019. Disponível em: http://dx.doi.org/10.18472/cvt.19n3.2019.1483 CAUMO, R. B.;",
+            "SOUZA, J. A.; BIZ, A. A. Big Data para a Geração de Indicadores de Turismo: Fontes de dados e aplicações, v. 13, p. 53-70, 2020. Disponível em: https://doi.org/10.18624/e-tech.v13i1 LACERDA, L. L. L.; BIZ, A. A.;",
+            "PACHECO, R. C. S. Turismo, Gestão do Conhecimento e Trabalhos Coletivos: uma Revisão Integrativa. Revista Turismo"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC6718",
+        "nome": "Cidades mais Humanas, Inteligentes e Sustentáveis",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": "36",
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Estudo das possibilidades atuais de transformação das nossas cidades em lugares mais humanos, inteligentes e sustentáveis para o uso dos seus frequentadores.",
+        "objetivos": "Entender a crise atual das cidades e propor soluções inovadoras para uma cidade específica, em qualquer das 8 dimensões principais (Educação, Desenvolvimento econômico sustentável, Qualidade de vida, Patrimônio Histórico-Artístico-Cultural e turismo, Meio-ambiente, Inclusão social, Mobilidade das pessoas, Governança), à luz dos Objetivos do Desenvolvimento Sustentável da ONU 2030.",
+        "bib_basica": [
+            "BOIANI, E. (2020). Aplicabilidade e validação no 9o workshop de Cidades mais Humanas, Inteligentes e Sustentáveis realizado na Fazenda Experimental da Ressacada da UFSC. Dissertação de mestrado na UFSC. Disponível em: https://repositorio.ufsc.br/bitstream/handle/123456789/226910/PEGC0669- D.pdf?sequence=-1&isAllowed=y",
+            "COSTA, E.M. (2017). Cidade mais Humana, Inteligente e Sustentável: você ainda vai ter uma. UFSM. Disponível em: https://ci.fdc.org.br/AcervoDigital/E- books/2021/Digital%202/Cidades%20mais%20humanas,%20inteligentes%20e%20 sustent%C3%A1veis%20%E2%80%93%20CHIS.pdf FECOMÉRCIO-SC. (2017). O workshop da ponte Hercílio Luz. Disponível em: http://www.fecomercio-sc.com.br/wp-content/uploads/2017/11/Relat%C3%B3rio- Workshop-sobre-a-Ponte-Herc%C3%ADlio-Luz.pdf"
+        ],
+        "bib_complementar": [
+            "UFSC. (2019). Relatório do workshop CHIS na Fazenda Ressacada. Disponível em: https://www.youtube.com/watch?v=N9Ytl2zJL1Q UFSC. (2018). Relatório do workshop CHIS no Campus Trindade. Disponível em: http://www.labchis.com/ufsc-inteligente-workshop-2018/"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5013",
+        "nome": "Gestão do Conhecimento nas Organizações",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceitos, histórico (dados, informação e conhecimento). Diretrizes e recomendações básicas e principais abordagens utilizadas na gestão do conhecimento. Criação do conhecimento: formatos e conversões. Facilitadores do trabalho com o formato tácito e explícito do conhecimento. Aplicações da tecnologia da informação na gestão do conhecimento. Aplicação da gestão do conhecimento na organização por meio de seus processos empresariais.",
+        "objetivos": "O objetivo da disciplina Gestão do Conhecimento é auxiliar na formação de profissionais engajados no processo de criação, gestão e disseminação de conhecimentos, tanto tácitos, quanto explícitos, em instituições das mais diversas áreas, sejam elas públicas ou privadas, e na sociedade.",
+        "bib_basica": [
+            "BATISTA, Fábio F. Proposta de Modelo de Gestão do Conhecimento para Administração Pública. Brasília: IPEA, 2012. Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A15096 45C10150A45A92D8481B",
+            "CHOO, C. W. A organização do conhecimento: como as organizações usam a informação para criar significado, construir conhecimento e tomar decisões. 2. ed.- . [s. l.]: SENAC, 2006.",
+            "DAVENPORT, T. H.;",
+            "PRUSAK, L. Conhecimento empresarial : como as organizações gerenciam o seu capital intelectual. 8. ed.-. [s. l.]: Campus, 2004.",
+            "NONAKA, I.;",
+            "TAKEUCHI, H. Criação de conhecimento na empresa : como as empresas japonesas geram a dinamica da inovação. 13. ed.-. [s. l.]: Campus, 2004.",
+            "SVEIBY, K. E. A nova riqueza das organizações : gerenciando e avaliando patrimônios de conhecimento. 7. ed. [s. l.]: Campus, 2003."
+        ],
+        "bib_complementar": [
+            "BUKOWITZ, W. R.;",
+            "WILLIAMS, R. L. Manual de gestão do conhecimento : ferramentas e técnicas que criam valor para a empresa. [s. l.]: Bookman, 2002.",
+            "KLEIN, D. A. A gestão estratégica do capital intelectual : recursos para a economia baseada em conhecimento. [s. l.]: Qualitymark, 1998.",
+            "TERRA, J. C. C. Gestão do conhecimento : o grande desafio empresarial : uma abordagem baseada no aprendizado e na criatividade. [s. l.]: Negocio, 2000."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5018",
+        "nome": "Introdução a Gestão da Inovação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "64",
+        "carga_horaria_pratica": "8",
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceitos, tipos e metodologias de inovação. Gestão de mudanças e planejamento estratégico da inovação. Cultura e liderança para inovação. A tecnologia da inovação. Gestão integrada da inovação. Conhecimento como fator de inovação. Metodologias e ferramentas da gestão. Da idéia à inovação. Modelos de negócio para inovação. Conceitos básicos de gerenciamento de projetos. Planejamento e estruturação de um projeto. Análise da viabilidade de um projeto. Agências de fomento. Cases.",
+        "objetivos": "Disseminar o empreendedorismo inovador por meio do desenvolvimento de competências sobre os fundamentos da gestão da inovação, gestão do conhecimento (pessoas, processos e tecnologia), planos de negócios inovadores e gestão de projetos.",
+        "bib_basica": [
+            "CORAL, Eliza; OGLIARI, Andre;",
+            "ABREU, Aline França de. Gestão integrada da inovação:estratégia, organização e desenvolvimento de produtos. São Paulo: Atlas 2008. xxii, 269 p. : ISBN 978-85-224-4976-7.",
+            "MATTOS, J. R. L. de;",
+            "GUIMARÃES, L. dos S. Gestão da tecnologia e inovação : uma abordagem prática. 2. ed. rev. atual. [s. l.]: Saraiva, 2012.",
+            "PREDEBON, Jose. Criatividade - Abrindo o lado inovador da mente: um caminho para o exercício prático dessa potencialidade esquecida ou reprimida quando deixamos de ser crianças. 7ª Ed. São Paulo (SP): Atlas, 2010. 238p. ISBN: 9788522458516 TIDD, J.; PAVITT, K.;",
+            "BESSANT, J. Gestão da inovação. 5.ed. [s. l.]: Bookman, 2015."
+        ],
+        "bib_complementar": [
+            "DOMINGOS, C. Oportunidades disfarçadas: histórias reais de empresas que transformaram problemas em oportunidades. Rio de Janeiro, Editora Sextante, 2009. KIM, W. C.;",
+            "MAUBORGNE, R. A estratégia do oceano azul: como criar novos mercados e tornar a concorrência irrelevante. 20a ed., Rio de Janeiro, Editora Campus/Symnetics, 2005.",
+            "SVEIBY, K. E.. A nova riqueza das organizações. Tradução: Luiz Euclides Frazão Filho. Rio de Janeiro: Campus, 1998.",
+            "VARGAS, R.V. Gerenciamneto de projetos: estabelecendo diferenciais competitivos. 6.ed Rio de Janeiro: Brasport, 2005."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5019",
+        "nome": "Ambientes Virtuais de Aprendizagem",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Introdução à Ambientes Virtuais de Aprendizagem (AVA). Processo de ensino e aprendizagem em um AVA em diferentes contextos. Tecnologia em AVAs. Análise e prática didática com as ferramentas de um AVA. Avaliação de usabilidade em AVA. Novas tendências em e-learning e e-training corporativos e outras organizações. Análise, modelagem e desenvolvimento de protótipo de AVA.",
+        "objetivos": "Fornecer ao estudante o contato e a compreensão sobre Ambientes Virtuais de Aprendizagem em diferentes contextos e apresentar uma visão geral de suas aplicações.",
+        "bib_basica": [
+            "PEREIRA, Alice Cybis. AVA: ambientes virtuais de aprendizagem em diferentes contextos. São Paulo: Ciência Moderna, 2007.",
+            "SPANHOL, Fernando J; FARIAS, Giovanni F;",
+            "SOUZA, Marcio V. de (orgs). EAD, PBL e o desafio da Educação em Rede: metodologias ativas e outras práticas do educador coinvestigador. São Paulo: Blucher, 2018. Disponível em: https://www.blucher.com.br/livro/detalhes/ead-pbl-e-o-desafio-da-educacao-em- rede-metodologias-ativas-e-outraspraticas-naformacao-do-educador- coinvestigador-1478 TEIXEIRA, Clarissa S;",
+            "SOUZA, Marcio V. de (orgs). Educação Fora da Caixa: Tendências Internacionais e perspectivas sobre a Inovação na Educação. São Paulo: Blucher, 2018. Disponível em: https://www.blucher.com.br/livro/detalhes/educacao-fora-da-caixatendencias- internacionais-e-perspectivas-sobrea-inovacao-na-educacao-1434"
+        ],
+        "bib_complementar": [
+            "RAMOS, Daniela Karine. Cursos on-line: planejamento e organização. Florianópolis: Ed. Da UFSC. 2010. 156p MONTEZ, C.;",
+            "BECKER, Valdecir. TV digital interativa: conceitos, desafios e perspectivas para o Brasil. 2. ed. Florianópolis: Editora da UFSC, 2005",
+            "SOUZA, Márcio Vieira de. Redes informatizadas de comunicação: a teia da rede internacional DPH [livro eletrônico] / Márcio Vieira de Souza. – 2. ed. -- São Paulo : Blucher, 2016. 232 p. Disponível em: https://www.blucher.com.br/livro/detalhes/redes-informatizadas-de-comunicacao- 1297 SOUZA, M.V.;",
+            "GIGLIO, K. (org). Mídias digitais, redes sociais e educação em rede: experiências na pesquisa e extensão universitária [livro eletrônico] / São Paulo: Blucher, 2015. Disponível em: https://www.blucher.com.br/livro/detalhes/midias-digitais-redes-sociais-e-"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5020",
+        "nome": "Redes Sociais e Virtuais",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Definição de Redes sociais e suas influências culturais, organizacionais e tecnológicas. Tipologia de redes. Noções de comunidade de prática. Análise e avaliação de redes sociais virtuais e comunidades de prática. Estudos de caso e ou análise de recursos e ferramentas tecnológicas de análise de redes sociais (ARS).",
+        "objetivos": "Fornecer ao estudante o contato e a compreensão sobre redes sociais e virtuais em diferentes contextos e apresentar uma visão geral de suas aplicações.",
+        "bib_basica": [
+            "SPANHOL, Fernando J; FARIAS, Giovanni F;",
+            "SOUZA, Marcio V. de (orgs). EAD, PBL e o desafio da Educação em Rede: metodologias ativas e outras práticas do educador coinvestigador. São Paulo: Blucher, 2018. Disponível em: https://www.blucher.com.br/livro/detalhes/ead-pbl-e-o-desafio-da-educacao-em- rede-metodologias-ativas-e-outraspraticas-naformacao-do-educador- coinvestigador-1478",
+            "SOUZA, Márcio Vieira de. Redes informatizadas de comunicação: a teia da rede internacional DPH [livro eletrônico] / Márcio Vieira de Souza. – 2. ed. -- São Paulo: Blucher, 2016. 232 p. Disponível em: https://www.blucher.com.br/livro/detalhes/redesinformatizadas-de-comunicacao- 1297 SOUZA, M.V.;",
+            "GIGLIO, K. (org). Mídias digitais, redes sociais e educação em rede: experiências na pesquisa e extensão universitária [livro eletrônico] / São Paulo : Blucher, 2015. Disponível em: https://www.blucher.com.br/livro/detalhes/midias-digitais-redessociais-e- educacao-em-rede-1134 TEIXEIRA, Clarissa S; LEBLER,Cristiane;",
+            "SOUZA, Marcio V. de (orgs). Educação Fora da Caixa: Tendências Internacionais e perspectivas sobre a Inovação na Educação. São Paulo: Blucher, 2020. Disponível em: https://www.blucher.com.br/livro/detalhes/educacao-fora-da-caixatendencias- internacionais-e-perspectivas-sobre-a-inovacao-na-educacao-1649/educacao- elicenciatura-113"
+        ],
+        "bib_complementar": [
+            "JOHNSON, S. Cultura da Interface: como o computador transforma nossa maneira de criar e comunicar. Rio de Janeiro: Jorge Zahar, 2001.",
+            "LEMOS, A. Cibercultura. tecnologia e vida social na cultura contemporânea. 5. ed. [s. l.]: Sulina, 2010.",
+            "WENGER, E; Snyder, W.M. Communities of Practice: The Organizational Frontier. Harvard Business Review, januaryfebruary 2000, p. 139-145."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5022",
+        "nome": "Engenharia e Gestão da Inovação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Inovação. Empreendedorismo Inovador. Gestão de Projetos. Plano de negócios.",
+        "objetivos": "Oferecer aos alunos bases conceituais e práticas sobre o empreendedorismo e sobre a inovação; Mostrar a importância da inovação e desenvolvimento sustentável no processo de empreender, os desafios do empreendedorismo e a valorização do comportamento empreendedor ético e responsável. Estimular o aluno pela busca do autodesenvolvimento do comportamento empreendedor com vista à criação de novos negócios ou atuação em organizações existentes; Promover aos alunos a oportunidade de modelar e planejar negócios inovadores. Contribuir para o desenvolvimento do pensamento reflexivo, crítico, sistêmico e colaborativo do aluno.",
+        "bib_basica": [
+            "BERNARDI, L.A. Manual de Plano de Negócios. SP: Atlas, 2006.",
+            "BARON, R. A.;",
+            "SHANE, S. A. Empreendedorismo : uma visão do processo. [s. l.]: Cengage Learning, 2007",
+            "BROWN, T. Design thinking : uma metodologia poderosa para decretar o fim das velhas ideias. [s. l.]: Elsevier, 2010.",
+            "CORAL, E.; OGLIARI, A.;",
+            "ABREU, A.F. Gestão integrada da inovação: estratégia, organização e desenvolvimento de produtos. São Paulo: Atlas, 2008.",
+            "DIAS- TRINDADE, S.; MOREIRA, J. A. M.;",
+            "JARDIM, J. ENTRECOMP Quadro de Referência das Competências para o Empreendedorismo (Tradução). [s. l.], 2020. Disponível em: https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=edsrca &AN=rcaap.10316.94202&lang=pt-br&site=eds-live&scope=site. ORGANIZAÇÃO DE COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO (OCDE). Oslo Manual: GUIDELINES FOR",
+            "COLLECTING, REPORTING AND USING DATA ON INNOVATION, 2018. 4ª.edição. OCDE. Disponível em: https://www.ovtt.org/wp-content/uploads/2020/05/Manual_Oslo_2018.pdf"
+        ],
+        "bib_complementar": [
+            "COOPER, R. G, EDJETT, S. J.,",
+            "KLEINSCHMIDT, E.J. Portfolio management for new technology push in the corporate front end and innovation management- insights from the German software industry. Technovation, v. 29, n. 5, p. 351- KOEN ADAMS, R.; BESSANT, J.; PHELPS, R. Innovation management"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5027",
+        "nome": "Criatividade e Inovação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "18",
+        "carga_horaria_pratica": "54",
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Conceitos; Teorias da Criatividade; características das pessoas criativas; o processo criativo na abordagem cognitivista; bloqueios e desbloqueadores da Criatividade; técnicas e exercícios de estímulo à Criatividade; a Criatividade voltada a Inovação.",
+        "objetivos": "Compartilhar a estratégia de desenvolvimento da disciplina, mobilizando o aluno para a participação.",
+        "bib_basica": [
+            "AZNAR, GUY. Ideias: 100 técnicas de criatividade. Ed. Summuns, 2011.",
+            "ALENCAR, E. M. L. S. de. Como desenvolver o potencial criador : um guia para a liberação da criatividade em sala de aula. 6. ed. [s. l.]: Vozes, 1998.",
+            "ALENCAR, E. M. L. S. de. A gerência da criatividade. [s. l.]: Makron Books, 2005.",
+            "ANDREOLA, B. A. Dinâmica de grupo : jogo da vida e didática do futuro. 20. ed. [s. l.]: Vozes, 1997.",
+            "BIRCH, Paul;",
+            "CLEGG, Brian. Criatividade nos negócios. São Paulo: Clio, 1995."
+        ],
+        "bib_complementar": [
+            "ABREU, A. F. de et al. Gestão integrada da inovação : estratégia, organização e desenvolvimento de produtos. [s. l.]: Atlas, 2008.",
+            "ALENCAR, E. M. L. S. de. Novas contribuições da psicologia aos processos de ensino e aprendizagem. 4. ed. [s. l.]: Cortez, 2002.",
+            "BEAL , George;",
+            "BOHLEN, Joe M. Liderança e dinâmica de grupo. Rio de Janeiro: Zahar, 1972.",
+            "CHUNG, T. Qualidade começa em mim : manual neurolinguístico de liderança e comunicação. 5. ed.-. [s. l.]: Maltese, 1998.",
+            "CUDICIO, Catherine. PNL e comunicação; a dimensão da criatividade. Rio de Janeiro: Record, 1996."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5028",
+        "nome": "Habitats de Inovação",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Inovação e conhecimento. Sistemas de ciência, tecnologia e inovação. A tríplice hélice. Cooperação universidade empresa. Redes de cooperação. Habitats de inovação nacionais e internacionais.",
+        "objetivos": "Envolver os alunos com a temática dos fundamentos de habitats de inovação, em uma abordagem interdisciplinar, fazendo análise, interpretação e intervenção na realidade dos habitats existentes no Brasil e no mundo.",
+        "bib_basica": [
+            "ABDI - Agência Brasileira de Desenvolvimento Industrial. Parques Tecnológicos – Estudo, Análise e Proposições. Disponível em http://www.abdi.com.br/Estudo/Parques%20Tecnol%C3%B3gicos%20- %20Estudo%20an%C3%A1lises%20e%20Proposi%C3%A7%C3%B5es.pdf . ANPROTEC. Portfólio de Parques Tecnológicos no Brasil. Brasília: ANPROTEC, 2008. Disponível em: http://www.anprotec.org.br/ArquivosDin/protfolio_versao_resumida_pdf_37.pdf BRASIL. Lei nº 10.973, de 2 de dezembro de 2004. Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004- 2006/2004/lei/l10.973.htm",
+            "CHIOCHETTA, João Carlos. Proposta de um modelo de governança para parques tecnológicos. Tese (Doutorado em Engenharia de Produção) – Universidade Federal do Rio Grande do Sul, 2010. Disponível em: http://www.producao.ufrgs.br/arquivos/publicacoes/348_TESE%20- %20CHIOCHETTA-JC%20-%20HOMOLOGA%C3%87%C3%83O%20- %20revista%2014-01.pdf",
+            "FIGLIOLI, Aline. Perspectivas de financiamento de parques tecnológicos: um estudo comparativo. 2007. Dissertação (Mestrado em Administração de Organizações) - Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, 2007. Disponível em: http://www.teses.usp.br/teses/disponiveis/96/96132/tde-31082007-165358/ .",
+            "GIUGLIANI, Eduardo. Modelo de Governança para Parques Científicos e Tecnológicos no Brasil. Tese (Doutorado em Engenharia e Gestão do Conhecimento) – Universidade Federal de Santa Catarina, 2011. Disponível em: http://btd.egc.ufsc.br/wp-content/uploads/2011/08/Eduardo_Giugliani.pdf"
+        ],
+        "bib_complementar": [
+            "ETZKOWITZ, H.;",
+            "LEYDESDORFF, L. The dynamics of innovation: from National Systems and ‘‘Mode 2’’ to a Triple Helix of university–industry– government relations. Research Policy, v. 29, p, 109–123, 2000. OCDE. ORGANIZAÇÃO DE COOPERAÇÃO E DE DESENVOLVIMENTO ECONÔMICO. Science, Technogy and Industry Outlook, 2014. Disponível em: http://dx.doi.org/10.1787/sti_outlook-2014-en OCDE. ORGANIZAÇÃO DE COOPERAÇÃO E DE DESENVOLVIMENTO ECONÔMICO. Manual de Frascati: proposta de práticas exemplares para inquéritos sobre investigação e desenvolvimento experimental. Trad. More than Just Words (Portugal), 2013. Disponível em: http://www.mct.gov.br/upd_blob/0225/225728.pdf"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5029",
+        "nome": "Gestão da Sustentabilidade",
+        "carga_horaria_total": "36",
+        "carga_horaria_teorica": "36",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Relação Sociedade e Meio ambiente; Desenvolvimento Sustentável - conceitos e implicações para a sociedade e organizações; Dimensões da Sustentabilidade: Econômica, Social, Ambiental e Institucional; Gestão e Sustentabilidade; Elementos de Política Ambiental; Instrumentos de Regulação e Controle x Instrumentos Econômicos; Princípios da Economia Ecológica; Contabilidade Ambiental; Gestão Ambiental; Sistemas de Informação para a Sustentabilidade e Indicadores.",
+        "objetivos": "Oportunizar a compreensão sobre a gestão da sustentabilidade e as possibilidades para a inserção profissional na temática do desenvolvimento a partir das vertentes ambiental, social, econômica e institucional. Demonstrar a relações entre a sociedade e seu meio natural. Identificar a concepção de Desenvolvimento e Sustentabilidade. Reconhecer e aplicar instrumentos de Gestão voltados para a Sustentabilidade. Identificar, construir e aplicar ferramentas para avaliar a sustentabilidade em diferentes níveis.",
+        "bib_basica": [
+            "BARBIERI, Jose Carlos. Desenvolvimento e meio ambiente: as estratégias de mudanças da agenda 21. 2. ed Petrópolis: Vozes, 1998.",
+            "BURSZTYN, M. (Org.). Para Pensar o Desenvolvimento Sustentável. São Paulo: Editora Brasiliense, 1994.",
+            "FIALHO, F. A. P.; MONTIBELLER FILHO, G.; MACEDO, M.;",
+            "MITIDIERI, T. C. Gestão da sustentabilidade na era do conhecimento: o desenvolvimento sustentável e a nova realidade da sociedade pós-industrial. Florianópolis: Visual Books, 2008.",
+            "MONTIBELLER",
+            "FILHO, Gilberto. Empresas, desenvolvimento e ambiente: Diagnóstico e diretrizes de sustentabilidade. Barueri (SP): Manole, 2007.",
+            "MONTIBELLER",
+            "FILHO, G. O mito do desenvolvimento sustentável : meio ambiente e custos sociais no moderno sistema produtor de mercadorias. 2. ed. rev. [s. l.]: Ed. da UFSC, 2004 VAN",
+            "BELLEN, H. M. Gestão da sustentabilidade. Florianópolis: Departamento de Ciências Contábeis/UFSC, 2012. Disponível em: https://repositorio.ufsc.br/bitstream/handle/123456789/194939/Gestao_da_Sustent abilidade_MIOLO.pdf?sequence=1&isAllowed=y"
+        ],
+        "bib_complementar": [
+            "PUPPIM DE",
+            "OLIVEIRA, J. A. Empresas na Sociedade. Campus, 2008."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5030",
+        "nome": "Raciocínio Lógico na Formação do Conhecimento",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "A construção do conhecimento através da argumentação e raciocínio lógico. Argumentos. Estrutura de argumentos. Cálculo proposicional e Enunciado Categóricos. Pensamento Indutivo e dedutivo. Validade e verdade de argumentos. Argumentos sólidos e Cogente. Falácias. Erros nos argumentos falaciosos. Introdução ao pensamento crítico.",
+        "objetivos": "Oferecer ao o aluno uma visão geral sobre a linguagem da lógica. Oferecer ao aluno o conhecimento sobre problemas envolvendo raciocínio lógico e suas interpretações e soluções. Propor formas de prova para argumentações em lógica. Representar e diagramar enunciados e proposições da lógica. Introduzir os conteúdos de pensamento crítico.",
+        "bib_basica": [
+            "ALENCAR",
+            "FILHO, E. de. Iniciação a lógica matemática. [s. l.]: Nobel, 2002.",
+            "NOLT, John,",
+            "ROHATYN, Dennis. Lógica. São Paulo: Schaum McGraw-Hill, 1991.",
+            "COSTA, N. C. A. da. Ensaio sobre os fundamentos da lógica. 3. ed. [s. l.]: Hucitec, 2008.",
+            "MORTARI, C. A. Introdução à lógica. 2. ed. [s. l.]: UNESP, 2016."
+        ],
+        "bib_complementar": [
+            "COPI, I. M. Introdução à lógica. Irving M. Copi ; 2. ed. [s. l.]: Mestre Jou, 1981.",
+            "NEWTON-",
+            "SMITH, W. Lógica : um curso introdutório. [s. l.]: Gradiva, 1998.",
+            "SERATES, J. Raciocínio lógico : lógico matemático, lógico quantitativo, lógico numérico, lógico analítico, lógico crítico. 11. ed. [s. l.]: Jonofon, 2004."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "EGC5031",
+        "nome": "Raciocínio Quantitativo na Formação do Conhecimento",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "A construção do conhecimento através do raciocínio quantitativo. Conceitos matemáticos para a representação do conhecimento quantitativo: matemática básica, probabilidade, estatística e matemática financeira. Modelagem e resolução de problemas quantitativos: tradução em equações e relações, interpretação de fórmulas, resolução de problema.",
+        "objetivos": "Oferecer ao aluno métodos de resolução de problemas envolvendo raciocínio quantitativo, suas interpretações e soluções. Modelar, analisar e resolver problemas quantitativos envolvendo matemática básica, estatística, probabilidade e álgebra linear. Analisar a aplicação de álgebra linear na modelagem de problemas.",
+        "bib_basica": [
+            "ANDERSON, D. R.; WILLIAMS, T. A.;",
+            "SWEENEY, D. J. Estatística aplicada à administração e economia. 2. ed. [s. l.]: Cengage Learning, 2007.",
+            "ASSAF",
+            "NETO, A. Matemática financeira e suas aplicações. 11. ed. [s. l.]: Atlas, 2009.",
+            "HAZZAN, S. Fundamentos de matemática elementar, 5 : combinatória, probabilidade. 8. ed. [s. l.]: Atual, 2013.",
+            "HOFFMANN, L. D.;",
+            "BRADLEY, G. L. Cálculo : um curso moderno e suas aplicações. 10. ed. [s. l.]: LTC, 2010.",
+            "MORETTIN, P. A.;",
+            "BUSSAB, W. de O. Estatística básica. 8. ed. [s. l.]: Saraiva, 2013 MUROLO, A. C.;",
+            "BONETTO, G. A. Matemática aplicada à administração, economia e contabilidade. 2. ed. rev. e ampl. [s. l.]: Thomson Learning, 2012.",
+            "SERATES, J. Raciocínio lógico : lógico matemático, lógico quantitativo, lógico numérico, lógico analítico, lógico crítico. 11. ed. [s. l.]: Jonofon, 2004.",
+            "SILVA, Fernando César Marra e,",
+            "ABRÃO, Mariângela. Matemática básica para decisões administrativas. São Paulo: Atlas, 2007."
+        ],
+        "bib_complementar": [
+            "DOLCE, O.;",
+            "POMPEO, J. N. Fundamentos de matemática elementar, 9 : geometria plana. 7. ed. [s. l.]: Atual, 1993.",
+            "GIOVANNI, J. R.; GIOVANNI JUNIOR, J. R.;",
+            "BONJORNO, J. R. Matemática fundamental, 2. gra. [s. l.]: FTD, 1994.",
+            "LEITHOLD, L. Matemática aplicada à economia e administração. São Paulo: Harbra, 1988."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "LSB7904",
+        "nome": "Língua Brasileira de Sinais I (PCC 18horas-aula)",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Desmistificação de ideias recebidas relativamente às línguas de sinais; a língua de sinais enquanto língua utilizada pela comunidade surda brasileira; Introdução à língua de sinais; usar a língua de sinais em contexto que exigem comunicação básica, como se apresentar, realizar perguntas, responder perguntas e dar informações sobre alguns aspectos pessoais (nome, endereço, telefone); conhecer aspectos culturais específicos da comunidade surda brasileira de sinais.",
+        "objetivos": "A disciplina tem como objetivos: apresentar aspectos históricos, sociais e educacionais das pessoas surdas; promover a aprendizagem da Língua Brasileira de Sinais; estimular a interação em Libras entre graduandos e seus estudantes no campo de estágio; praticar a produção e compreensão de enunciados em Libras; apresentar as principais Leis que atendem às pessoas surdas, principalmente no âmbito educacional; e estudar os aspectos formacionais da Libras.",
+        "bib_basica": [
+            "GESSER, Audrei. Libras? Que língua é essa? Crenças e preconceitos em torno da língua de sinais e da realidade surda. São Paulo: Parábola Editorial, 2009.",
+            "STROBEL, K. As imagens do outro sobre a cultura surda. 4. ed. [s. l.]: Ed. da UFSC, 2016."
+        ],
+        "bib_complementar": [
+            "QUADROS. Ronice M. de (org.). Estudos Surdos. Petrópolis, RJ: Editora Arara Azul 2006. Volume 1. Disponível para download na página da Editora Arara Azul: http://www.editora-arara-azul.com.br/EstudosSurdos.php",
+            "ALBRES, Neiva de Aquino. História da Língua Brasileira de Sinais em Campo Grande – MS. Disponível para download na página da Editora Arara Azul: http:// www.editora-arara-azul.com.br/pdf/artigo15.pdf"
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    },
+    {
+        "codigo": "ANT7003",
+        "nome": "Relações Interétnicas",
+        "carga_horaria_total": "72",
+        "carga_horaria_teorica": "72",
+        "carga_horaria_pratica": null,
+        "carga_horaria_extensao": null,
+        "equivalente": null,
+        "prereq": null,
+        "ementa": "Grupos étnicos. Processos socioculturais de construção de identidade étnicas. Particularidades históricas e processos de diferenciação. Etnicidades e questões raciais, acomodações e conflitos. Sociedades pluriétnicas, cultura e política.",
+        "objetivos": "A disciplina visa uma introdução às teorias e debates atuais sobre etnicidade, identidades étnicas e grupos minoritários, ressaltando autores de referência, suas linhas de investigação, e produções bibliográficas mais significativas.",
+        "bib_basica": [
+            "ALBERT, Bruce. 1995. O Ouro Canibal e a Queda do Céu: Uma crítica xamânica da economia política da natureza. Série Antropologia (Brasília/UnB) n⁰ 174.",
+            "CARDOSO DE",
+            "OLIVEIRA, Roberto, 1996. O Índio e o Mundo dos Brancos. Campinas: Editora da Unicamp.",
+            "CARDOSO DE",
+            "OLIVEIRA, Roberto. 1976. Identidade, Etnia e Estrutura Social: São Paulo: Pioneira.",
+            "CUNHA, M. C. da. Historia dos indios no Brasi. 2. ed. [s. l.]: FAPESP : Cia das Letras, 1998.",
+            "OLIVEIRA, J. P. de. A viagem da volta : etnicidade, política e reelaboração cultural no nordeste indígena. Rio de Janeiro: Contra Capa, 1999..",
+            "POUTIGNAT, P.; STREIFF-",
+            "FENART, J. Teorias da etnicidade : seguido de grupos étnicos e suas fronteiras de Fredrik Barth. [s. l.]: UNESP, 1997.",
+            "RAMOS, Alcida Rita. 1993. Nações Dentro de Nação: Um desencontro de ideologias. Série Antropologia (Brasília/UnB), n⁰ 147.",
+            "RIBEIRO, D. Os índios e a civilização : a integração das populações indígenas no Brasil moderno. [s. l.]: Companhia das Letras, 1996.",
+            "RUBEN, Guillermo Raúl. 1988. Teoria da Identidade: Uma crítica. Anuário Antropológico 86. Brasília: Editora da Universidade de Brasília/Tempo Brasileiro, pp. 75-92.",
+            "SANTOS, Sílvio Coelho. 1973. Índios e brancos no sul do Brasil: A dramática experiência dos Xokleng. Florianópolis, SC: Edeme.",
+            "SANSONE, L. Negritude sem etnicidade : o local e o global nas relações raciais e na produção cultural negra do Brasil. [s. l.]: Ed. da UFBA, 2007."
+        ],
+        "bib_complementar": [
+            "DAL POZ, João. 2003. A etnia como sistema: contato, fricção e identidade no Brasil indígena. Sociedade e Cultura, 6(2): 177-188.",
+            "HANNERZ, Ulf. 1997. Fluxos, Fronteiras, Híbridos: Palavras-chave da Antropologia Transnacional. Mana 3(1): 7-39.",
+            "LEITE, Ilka Boaventura. 2008. O Projeto Político Quilombola: Desafios, Conquistas e Impasses Atuais. Estudos Feministas, Florianópolis, 16(3): 965-977. O’",
+            "DWYER, Eliane Cantarino. 2005. Os Quilombos e as fronteiras com a Antropologia. Antropolítica (UFF), vol. 19: 91-111.",
+            "SANSONE, Lívio. 2000. Os Objetos da Identidade Negra: Consumo, Mercantilização, Globalização, e a Criação de Culturas Negras no Brasil. Mana, 6(1):87-119.",
+            "SEYFERTH, Giralda. 1999. Etnicidade, Política e Ascensão Social: Um exemplo teuto-brasileiro. Mana, 5(2):61-88.",
+            "SEYFERTH, Giralda. 2000. As Identidades dos Imigrantes e o Melting Pot Nacional. Horizontes Antropológicos, 6(14): 143-176.",
+            "ZANINI, Maria Catarina Chitolina. 2007. Um Olhar Antropológico Sobre Fatos e Memórias da Imigração Italiana. Mana 13(2): 521-547."
+        ],
+        "tipo": "Optativa",
+        "fase": "8"
+    }
+]
