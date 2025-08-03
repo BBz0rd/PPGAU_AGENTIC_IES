@@ -23,7 +23,7 @@ Agentes Conversacionais · Ensino Superior · Design Science Research · Atendim
 - `codigo/`: scripts para orquestração de agentes, manipulação de embeddings, chamadas LLM e testes com APIs.
 - `workflows/`: fluxos desenvolvidos em plataformas como n8n e Supabase.
 - `documentacao/`: diagramas, instruções de uso e anotações metodológicas.
-- `datasets/`: exemplos e bases para fine-tuning, especialmente voltados a testes de comportamento investigativo e tom acolhedor.
+- `IPA_Formulários/`: WorkFlow e códigos referentes ao artigo "Automação Inteligente para o Preenchimento de Formulários na Gestão Universitária"
 
 ## 🛠 Tecnologias Utilizadas
 
