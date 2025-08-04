@@ -1,0 +1,438 @@
+{
+  "name": "Automação_Inteligente copy",
+  "nodes": [
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Documento: {{ $json.text }}\nFonte2: {{ $('Prompt').item.json.chatInput }}",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "=Sua função é identificar no documento de entrada o seguinte:\n\n{\n  \"unidade_administrativa_responsavel\": {\n    \"cod_gestao\": \"\",\n    \"ug_executora\": \"\",\n    \"ug_responsavel\": \"\",\n    \"cnpj\": \"\",\n    \"endereco\": \"\",\n    \"responsavel\": {\n      \"nome\": \"\",\n      \"cargo\": \"\",\n      \"matricula_siape\": \"\",\n      \"email\": \"\",\n      \"telefone\": \"\"\n    },\n    \"unidade_descentralizadora\": {\n      \"numero_e_nome_ug\": \"\"\n    },\n    \"unidade_acompanhamento_execucao\": {\n      \"numero_e_nome_ug\": \"\"\n    }\n  },\n  \"dados_cadastrais_unidade_descentralizada\": {\n    \"unidade_descentralizada_e_responsavel\": {\n      \"nome_orgao_entidade_descentralizada\": \"\",\n      \"autoridade_competente\": {\n        \"nome\": \"\",\n        \"cargo\": \"Reitor\",\n        \"matricula_siape\": \"\",\n        \"email\": \"\",\n        \"telefone\": \"\"\n      },\n      \"secretaria_departamento_unidade_responsavel_execucao\": \"\"\n    },\n    \"ug_siafi\": {\n      \"unidade_recebedora_credito\": {\n        \"numero_e_nome_ug\": \"\"\n      },\n      \"unidade_responsavel_execucao\": {\n        \"numero_e_nome_ug\": \"\"\n      },\n      \"unidade_administrativa_responsavel\": {\n        \"nome\": \"\",\n        \"cod_unidade\": \"\"\n      },\n      \"cod_gestao\": \"15\",\n      \"cnpj\": \"\",\n      \"endereco\": \"\"\n    }\n  },\n{\n  \"objeto\": \"\",\n  \"descricao_acoes_metas\": \"Todo o texto até o item seguinte\",\n  \"justificativa_e_motivacao_celebracao_ted\": \"Todo o texto até o item seguinte\",\n/// ##OS TRECHOS A SEGUIR VOCÊ DEVE EXTRAIR DA 'FONTE2'\n  \"responsavel\": \"Identifique em {{ $('Prompt').item.json.chatInput }}\",\n  \"fundacao_sigla\": \"Identifique em {{ $('Prompt').item.json.chatInput }}\",\n  \"tipo\": \"Identifique em {{ $('Prompt').item.json.chatInput }}\",\n  \"SIAPE\": \"número extraído da fonte 2\"\n}\n"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.9,
+      "position": [
+        -432,
+        -352
+      ],
+      "id": "59fef108-d943-49c7-a07b-cf6155809a54",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n  \"unidade_administrativa_responsavel\": {\n    \"cod_gestao\": \"\",\n    \"ug_executora\": \"\",\n    \"ug_responsavel\": \"\",\n    \"cnpj\": \"\",\n    \"endereco\": \"\",\n    \"responsavel\": {\n      \"nome\": \"\",\n      \"cargo\": \"\",\n      \"matricula_siape\": \"\",\n      \"email\": \"\",\n      \"telefone\": \"\"\n    },\n    \"unidade_descentralizadora\": {\n      \"numero_e_nome_ug\": \"\"\n    },\n    \"unidade_acompanhamento_execucao\": {\n      \"numero_e_nome_ug\": \"\"\n    }\n  },\n  \"dados_cadastrais_unidade_descentralizada\": {\n    \"unidade_descentralizada_e_responsavel\": {\n      \"nome_orgao_entidade_descentralizada\": \"\",\n      \"autoridade_competente\": {\n        \"nome\": \"\",\n        \"cargo\": \"Reitor\",\n        \"matricula_siape\": \"\",\n        \"email\": \"\",\n        \"telefone\": \"\"\n      },\n      \"secretaria_departamento_unidade_responsavel_execucao\": \"\"\n    },\n    \"ug_siafi\": {\n      \"unidade_recebedora_credito\": {\n        \"numero_e_nome_ug\": \"\"\n      },\n      \"unidade_responsavel_execucao\": {\n        \"numero_e_nome_ug\": \"\"\n      },\n      \"unidade_administrativa_responsavel\": {\n        \"nome\": \"\",\n        \"cod_unidade\": \"\"\n      },\n      \"cod_gestao\": \"15\",\n      \"cnpj\": \"\",\n      \"endereco\": \"\"\n    }\n  },\n  \"objeto\": \"\",\n  \"descricao_acoes_metas\": \"Todo o texto até o item seguinte\",\n  \"justificativa_e_motivacao_celebracao_ted\": \"Todo o texto até o item seguinte\",\n  \"data_hoje\": \"{{ $now }} (formate para dd 'de' MMMM 'de' yyyy)\",\n  \"responsavel\": \"Identifique em {{ $('Mapa de Fields').item.json.payload.body }}\",\n  \"fundacao_sigla\": \"Identifique em {{ $('Mapa de Fields').item.json.payload.body }}\",\n  \"tipo\": \"Identifique em {{ $('Mapa de Fields').item.json.payload.body }}\",\n  \"SIAPE\": \"número extraído da fonte 2\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.2,
+      "position": [
+        -240,
+        -176
+      ],
+      "id": "dbecd0d8-0d11-4421-a855-65ef2fccb187",
+      "name": "Structured Output Parser"
+    },
+    {
+      "parameters": {
+        "jsCode": "const item = items[0];\n\n// **PASSO DE DEPURAÇÃO DEFINITIVO:**\nconsole.log(\"Estrutura de dados recebida pelo Nó de Código:\");\nconsole.log(JSON.stringify(item, null, 2));\n\n// **TENTATIVA DE ACESSAR OS DADOS DE FORMA ROBUSTA**\nlet dadosPrimarios;\n\n// Tentativa para o Cenário C (JSON dentro de uma string)\nif (typeof item.json.data === 'string') {\n  try {\n    dadosPrimarios = JSON.parse(item.json.data);\n  } catch (e) {\n    console.error(\"Erro ao fazer o parse da string JSON:\", e);\n    dadosPrimarios = {}; // Evita que o resto do código quebre\n  }\n} \n// Tentativa para o Cenário B (JSON aninhado em 'output' ou outra chave)\nelse if (item.json.output) {\n    dadosPrimarios = item.json.output;\n}\n// Tentativa para o Cenário A (JSON direto)\nelse {\n    dadosPrimarios = item.json;\n}\n\nconst dadosEnriquecidos = { ...dadosPrimarios };\n\n// --- Bloco de Lógica 1: Enriquecimento com base na Sigla da Fundação ---\nconst siglaNormalizada = dadosEnriquecidos.fundacao_sigla?.toLowerCase().trim();\n\nswitch (siglaNormalizada) {\n  case \"fepese\":\n    dadosEnriquecidos.Nome_Fundacao = \"Fundação de Estudos e Pesquisas Socioeconômicos\";\n    dadosEnriquecidos.Data_Fundacao = \"20/07/1962\";\n    dadosEnriquecidos.Ano_Fundacao = \"1977\";\n    dadosEnriquecidos.Portaria = \"nº 42, de 24 de julho de 2017\";\n    break;\n  default:\n    console.log(`Sigla \"${siglaNormalizada}\" não encontrada.`);\n    dadosEnriquecidos.Nome_Fundacao = null;\n    dadosEnriquecidos.Data_Fundacao = null;\n    dadosEnriquecidos.Ano_Fundacao = null;\n    dadosEnriquecidos.Portaria = null;\n}\n\n// --- Bloco de Lógica 2: Enriquecimento com base no Tipo do Projeto ---\nconst tipoNormalizado = dadosEnriquecidos.tipo?.toLowerCase().trim();\n\nswitch (tipoNormalizado) {\n  case \"extensão\":\n    dadosEnriquecidos.Pro_reitoria = \"Pró-Reitor (a) de Extensão\";\n    dadosEnriquecidos.Pro_reitor = \"Profª Olga Regina Zigelli Garcia\";\n    break;\n  // Adicione outros casos aqui, sempre normalizados...\n  default:\n    console.log(`Tipo \"${tipoNormalizado}\" não reconhecido.`);\n    dadosEnriquecidos.Pro_reitoria = null;\n    dadosEnriquecidos.Pro_reitor = null;\n}\n\n// Retornar o objeto JSON completo e enriquecido.\nreturn [{ json: dadosEnriquecidos }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -128,
+        -352
+      ],
+      "id": "b94195bf-47c7-4a66-8e09-7787792dedd5",
+      "name": "Code"
+    },
+    {
+      "parameters": {
+        "operation": "pdf",
+        "binaryPropertyName": "data0",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1,
+      "position": [
+        -720,
+        -352
+      ],
+      "id": "8a705e51-9c46-472e-a0e5-0fe67cdf61b7",
+      "name": "PDF para Json"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -576,
+        -352
+      ],
+      "id": "0bbf9317-6220-41a9-bbad-97b6a25e89c2",
+      "name": "Classificador"
+    },
+    {
+      "parameters": {
+        "operation": "binaryToPropery",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1,
+      "position": [
+        144,
+        -192
+      ],
+      "id": "3cd34fdb-eb7f-443d-8371-6430474d0f49",
+      "name": "Move to Base64 (reenviar media)"
+    },
+    {
+      "parameters": {
+        "options": {
+          "allowFileUploads": true
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        -864,
+        -352
+      ],
+      "id": "1194f0cc-251a-43b8-949a-d13f123ea4a9",
+      "name": "Prompt",
+      "webhookId": "39728314-a83e-4b27-b447-cf9a1a330b06"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenRouter",
+      "typeVersion": 1,
+      "position": [
+        -416,
+        -176
+      ],
+      "id": "fb0f8970-c99c-4ede-94ae-371eb6a9959b",
+      "name": "LLM"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentURL": "={{ $json.id }}",
+        "simple": false,
+        "actionsUi": {
+          "actionFields": [
+            {
+              "action": "replaceAll",
+              "text": "{fundação_nome}",
+              "replaceText": "={{ $('Code').item.json.Nome_Fundacao }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{Tipo_Projeto}",
+              "replaceText": "={{ $('AI Agent').item.json.output.tipo }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "={datahj}",
+              "replaceText": "={{ new Date().toLocaleDateString('pt-BR') }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{Projeto_nome}",
+              "replaceText": "={{ $('AI Agent').item.json.output.objeto }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{datafund}",
+              "replaceText": "={{ $('Code').item.json.Data_Fundacao }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{anofund}",
+              "replaceText": "={{ $('Code').item.json.Ano_Fundacao }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{Sigla_fundação}",
+              "replaceText": "={{ $('AI Agent').item.json.output.fundacao_sigla }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{responsável}",
+              "replaceText": "={{ $('AI Agent').item.json.output.responsavel }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{Justificativa}",
+              "replaceText": "={{ $('AI Agent').item.json.output.justificativa_e_motivacao_celebracao_ted }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{SIAPE}",
+              "replaceText": "={{ $('AI Agent').item.json.output.SIAPE }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "={ Pro_reitoria }",
+              "replaceText": "={{ $('Code').item.json.Pro_reitoria }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{ Pro_reitor }",
+              "replaceText": "={{ $('Code').item.json.Pro_reitoria }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{ setor }",
+              "replaceText": "={{ $('Code').item.json.dados_cadastrais_unidade_descentralizada.unidade_descentralizada_e_responsavel.secretaria_departamento_unidade_responsavel_execucao }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{ endereco }",
+              "replaceText": "={{ $('Code').item.json.dados_cadastrais_unidade_descentralizada.ug_siafi.endereco }}"
+            },
+            {
+              "action": "replaceAll",
+              "text": "{ portaria }",
+              "replaceText": "={{ $('Code').item.json.Portaria }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.googleDocs",
+      "typeVersion": 2,
+      "position": [
+        144,
+        -352
+      ],
+      "id": "38be5bb5-b0da-4028-80e3-5a2819475db7",
+      "name": "Preenche Doc"
+    },
+    {
+      "parameters": {
+        "operation": "copy",
+        "fileId": {
+          "__rl": true,
+          "value": "1JHkJrZMUsVTI1PMtLVXWpe5KXb5tBnKDsTKiQzV9hrM",
+          "mode": "list",
+          "cachedResultName": "Teste_Dani",
+          "cachedResultUrl": "https://docs.google.com/document/d/1JHkJrZMUsVTI1PMtLVXWpe5KXb5tBnKDsTKiQzV9hrM/edit?usp=drivesdk"
+        },
+        "name": "={{ $json.responsavel }}_Oficio-Solicitação",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        16,
+        -352
+      ],
+      "id": "69e66090-805a-4c0b-abea-edb9025cff5c",
+      "name": "Clona o Formulário"
+    },
+    {
+      "parameters": {
+        "operation": "download",
+        "fileId": {
+          "__rl": true,
+          "value": "={{ $json.documentId }}",
+          "mode": "id"
+        },
+        "options": {
+          "googleFileConversion": {
+            "conversion": {
+              "docsToFormat": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        288,
+        -352
+      ],
+      "id": "232c1e7b-f1ca-471a-a383-3c17a358317d",
+      "name": "Download formulário",
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "gqI1dKHcRsic3DUo",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "## Bloco 1 - Iniciação e Preparação do Documento\n",
+        "height": 448,
+        "width": 432,
+        "color": 3
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -880,
+        -464
+      ],
+      "typeVersion": 1,
+      "id": "3e0029fa-e1cb-4c84-813d-48e8535b88a1",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "## Bloco 2 - Extração por LLM e enriquecimento por Java Script\n",
+        "height": 448,
+        "width": 432,
+        "color": 5
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -448,
+        -464
+      ],
+      "typeVersion": 1,
+      "id": "f1e23a67-a84c-4fb4-ab12-9acf55685c2c",
+      "name": "Sticky Note1"
+    },
+    {
+      "parameters": {
+        "content": "## Bloco 3 - Geração do Documento Preenchido",
+        "height": 448,
+        "width": 432,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -16,
+        -464
+      ],
+      "typeVersion": 1,
+      "id": "5cf5c6b0-0a70-445b-96b2-705833ea4267",
+      "name": "Sticky Note2"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "Clona o Formulário",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "PDF para Json": {
+      "main": [
+        [
+          {
+            "node": "Classificador",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Classificador": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Move to Base64 (reenviar media)": {
+      "main": [
+        []
+      ]
+    },
+    "Prompt": {
+      "main": [
+        [
+          {
+            "node": "PDF para Json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Preenche Doc": {
+      "main": [
+        [
+          {
+            "node": "Download formulário",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clona o Formulário": {
+      "main": [
+        [
+          {
+            "node": "Preenche Doc",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Download formulário": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "262d148c-81c3-404c-a87d-7f923cf931fc",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "624c87d1d65da7ecc89d34acdce4dd40f1fec4cd13049985c4578680c665b92a"
+  },
+  "id": "laWXTPGejNcNE0xe",
+  "tags": []
+}
