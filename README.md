@@ -2,6 +2,9 @@
 
 Este repositório reúne os artefatos técnicos, códigos-fonte, fluxos automatizados e estruturas de dados vinculados à pesquisa de mestrado no Programa de Pós-Graduação em Administração Universitária (PPGAU/UFSC), que investiga o uso de agentes conversacionais especializados em Instituições de Ensino Superior (IES).
 
+Este trabalho contou com apoio da Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina (FAPESC), no âmbito do Programa de Bolsas de Mestrado.
+This work was supported by the Research and Innovation Support Foundation of the State of Santa Catarina (FAPESC), under the Graduate Scholarship Program.
+
 ## Objetivo
 
 Aplicações de duas diretrizes no contexto das IES:
